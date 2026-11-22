@@ -1,0 +1,17 @@
+canton_id,canton,prefecture,region,population_2022,population_estimee,formations_autres,part_hab_5km,habitants_plus_5km,dist_route_med_km,proposition,justification,simulateur_premier_rang,simulateur_part_eloignes_couverts_n50_pct
+E02103330,Tambigou,Kpendjal,Savanes,9361.0,False,0,88.9,8320.9,29.4,Nouvelle USP,population ≥ 3994 (habitants par centre au niveau national) et plus de la moitié à plus de 5 km,44.0,62.5
+C01067207,M'Poti,Blitta,Centrale,6971.0,False,0,90.9,6337.3,9.0,Nouvelle USP,population ≥ 3994 (habitants par centre au niveau national) et plus de la moitié à plus de 5 km,23.0,90.0
+E07116386,Louanga,Tône,Savanes,11434.0,False,1,37.1,4246.9,7.5,Cliniques mobiles (stratégie avancée),la majorité des habitants a déjà un centre à moins de 5 km dans un canton voisin,2.0,69.2
+B01033076,Agou-Nyogbo-Agbétiko,Agou,Plateaux,7174.3,True,0,44.4,3188.6,6.2,Cliniques mobiles (stratégie avancée),la majorité des habitants a déjà un centre à moins de 5 km dans un canton voisin,,0.0
+C03071220,Fazao,Sotouboua,Centrale,2289.0,False,0,100.0,2289.0,7.1,Cliniques mobiles (stratégie avancée),population < 3994 : trop faible pour un centre fixe à charge moyenne,,0.0
+B09054153,Kpélé-Govié,Kpélé,Plateaux,4629.0,False,0,30.8,1424.3,6.8,Cliniques mobiles (stratégie avancée),la majorité des habitants a déjà un centre à moins de 5 km dans un canton voisin,,0.0
+E01101322,Gouloungoussi,Cinkassé,Savanes,3707.0,False,0,27.8,1029.7,4.9,Cliniques mobiles (stratégie avancée),la majorité des habitants a déjà un centre à moins de 5 km dans un canton voisin,,0.0
+C01067205,Dikpéléou,Blitta,Centrale,2086.0,False,0,33.3,695.3,7.2,Cliniques mobiles (stratégie avancée),la majorité des habitants a déjà un centre à moins de 5 km dans un canton voisin,,0.0
+E06111359,Goundoga,Tandjoaré,Savanes,6348.0,False,0,10.3,656.7,6.2,Cliniques mobiles (stratégie avancée),la majorité des habitants a déjà un centre à moins de 5 km dans un canton voisin,,0.0
+B09055158,Kpélé-Dutoé,Kpélé,Plateaux,3573.0,False,0,18.2,649.6,7.0,Cliniques mobiles (stratégie avancée),la majorité des habitants a déjà un centre à moins de 5 km dans un canton voisin,,0.0
+E06112364,Bagou,Tandjoaré,Savanes,2390.0,False,0,6.7,159.3,5.2,Cliniques mobiles (stratégie avancée),la majorité des habitants a déjà un centre à moins de 5 km dans un canton voisin,,0.0
+B01033083,Agou-Atigbé,Agou,Plateaux,1845.0,False,0,0.0,0.0,2.6,Cliniques mobiles (stratégie avancée),la majorité des habitants a déjà un centre à moins de 5 km dans un canton voisin,,
+B09055160,Kpélé-Gbalédzé,Kpélé,Plateaux,3325.0,False,0,0.0,0.0,1.9,Cliniques mobiles (stratégie avancée),la majorité des habitants a déjà un centre à moins de 5 km dans un canton voisin,,
+E01101323,Noaga,Cinkassé,Savanes,1656.0,False,0,0.0,0.0,5.4,Cliniques mobiles (stratégie avancée),la majorité des habitants a déjà un centre à moins de 5 km dans un canton voisin,,
+D01081251,Koumondè,Assoli,Kara,5124.0,False,0,0.0,0.0,1.9,Cliniques mobiles (stratégie avancée),la majorité des habitants a déjà un centre à moins de 5 km dans un canton voisin,,
+D05093296,Anima,Doufelgou,Kara,1092.0,False,0,0.0,0.0,4.1,Cliniques mobiles (stratégie avancée),la majorité des habitants a déjà un centre à moins de 5 km dans un canton voisin,,

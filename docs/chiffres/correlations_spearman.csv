@@ -1,0 +1,46 @@
+variable_1,variable_2,libelle_1,libelle_2,rho,p_valeur,n,significatif_5pct,p_holm,significatif_holm_5pct,rho_partiel_densite
+part_loc_5km,dist_route_med_km,Localités à plus de 5 km par la route (%),Distance médiane par la route (km),0.935,5.607858080332718e-179,396,True,2.5235361361497234e-177,True,0.908
+part_hab_5km,part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)","Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",0.896,3.398394264522107e-141,396,True,1.495293476389727e-139,True,0.85
+part_hab_5km,part_loc_5km,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",Localités à plus de 5 km par la route (%),0.772,1.313903344053075e-79,396,True,5.649784379428223e-78,True,0.678
+part_hab_5km_geodata,part_loc_5km,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",Localités à plus de 5 km par la route (%),0.765,2.4049375892544665e-77,396,True,1.0100737874868759e-75,True,0.65
+part_hab_5km,dist_route_med_km,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",Distance médiane par la route (km),0.753,1.3206661770844797e-73,396,True,5.414731326046366e-72,True,0.652
+part_hab_5km_geodata,dist_route_med_km,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",Distance médiane par la route (km),0.738,2.9586738989138826e-69,396,True,1.183469559565553e-67,True,0.61
+densite_hab_km2,km_route_km2,Densité (hab./km²),Densité routière (km/km²),0.718,6.127174148888922e-64,396,True,2.3895979180666795e-62,True,
+dist_hopital_med_km,km_route_km2,Distance médiane à l'hôpital (km),Densité routière (km/km²),-0.68,4.407662761598922e-55,396,True,1.6749118494075904e-53,True,-0.462
+dist_route_med_km,dist_hopital_med_km,Distance médiane par la route (km),Distance médiane à l'hôpital (km),0.663,2.1817766915181105e-51,396,True,7.854396089465198e-50,True,0.51
+part_loc_5km,dist_hopital_med_km,Localités à plus de 5 km par la route (%),Distance médiane à l'hôpital (km),0.663,1.5487666307428758e-51,396,True,5.730436533748641e-50,True,0.51
+part_loc_5km,km_route_km2,Localités à plus de 5 km par la route (%),Densité routière (km/km²),-0.633,9.368295552234464e-46,396,True,3.2789034432820624e-44,True,-0.42
+densite_hab_km2,part_hab_5km_geodata,Densité (hab./km²),"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",-0.631,2.3916712892837886e-45,396,True,8.131682383564882e-44,True,
+dist_route_med_km,km_route_km2,Distance médiane par la route (km),Densité routière (km/km²),-0.612,5.055676528082382e-42,396,True,1.668373254267186e-40,True,-0.386
+part_hab_5km_geodata,dist_hopital_med_km,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",Distance médiane à l'hôpital (km),0.596,1.981020488750945e-39,396,True,6.339265564003024e-38,True,0.362
+densite_hab_km2,dist_hopital_med_km,Densité (hab./km²),Distance médiane à l'hôpital (km),-0.583,1.8096949561914065e-37,396,True,5.61005436419336e-36,True,
+part_hab_5km_geodata,km_route_km2,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",Densité routière (km/km²),-0.58,6.108432407496198e-37,396,True,1.8325297222488594e-35,True,-0.235
+part_hab_5km,dist_hopital_med_km,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",Distance médiane à l'hôpital (km),0.543,8.736035837814905e-32,396,True,2.5334503929663224e-30,True,0.332
+densite_hab_km2,part_hab_5km,Densité (hab./km²),"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",-0.543,9.012163314358811e-32,396,True,2.5334503929663224e-30,True,
+densite_hab_km2,part_loc_5km,Densité (hab./km²),Localités à plus de 5 km par la route (%),-0.539,3.086111319523639e-31,396,True,8.332500562713826e-30,True,
+densite_hab_km2,dist_route_med_km,Densité (hab./km²),Distance médiane par la route (km),-0.536,7.580222414583288e-31,396,True,1.9708578277916547e-29,True,
+pct_hab_reseau_bt,km_route_km2,Habitants à moins de 50 m du réseau BT (%),Densité routière (km/km²),0.534,1.596339030922473e-30,396,True,3.990847577306182e-29,True,0.424
+hab_par_centre,hab_par_personnel,"Habitants par USP, CMS ou hôpital",Habitants par agent de santé,0.523,2.4786386026581855e-27,370,True,5.700868786113826e-26,True,0.538
+dist_hopital_med_km,pct_hab_reseau_bt,Distance médiane à l'hôpital (km),Habitants à moins de 50 m du réseau BT (%),-0.509,1.6569005388496626e-27,396,True,3.9765612932391903e-26,True,-0.395
+part_hab_5km,km_route_km2,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",Densité routière (km/km²),-0.507,2.94663906283892e-27,396,True,6.482605938245624e-26,True,-0.2
+dist_route_med_km,pct_hab_reseau_bt,Distance médiane par la route (km),Habitants à moins de 50 m du réseau BT (%),-0.494,8.658826542724054e-26,396,True,1.8183535739720513e-24,True,-0.383
+part_loc_5km,pct_hab_reseau_bt,Localités à plus de 5 km par la route (%),Habitants à moins de 50 m du réseau BT (%),-0.466,9.889729847799665e-23,396,True,1.977945969559933e-21,True,-0.346
+part_hab_5km_geodata,hab_par_centre,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)","Habitants par USP, CMS ou hôpital",0.419,1.4384434078747507e-17,380,True,2.733042474962026e-16,True,0.662
+hab_par_personnel,pct_hab_reseau_bt,Habitants par agent de santé,Habitants à moins de 50 m du réseau BT (%),-0.415,7.681967009464993e-17,371,True,1.3059343916090488e-15,True,-0.418
+part_hab_5km,hab_par_centre,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)","Habitants par USP, CMS ou hôpital",0.414,3.452766769808757e-17,380,True,6.214980185655763e-16,True,0.589
+dist_route_med_km,hab_par_centre,Distance médiane par la route (km),"Habitants par USP, CMS ou hôpital",0.406,1.685867847988346e-16,380,True,2.6973885567813537e-15,True,0.573
+part_hab_5km_geodata,pct_hab_reseau_bt,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",Habitants à moins de 50 m du réseau BT (%),-0.391,7.063873582627464e-16,396,True,1.0595810373941195e-14,True,-0.226
+part_loc_5km,hab_par_centre,Localités à plus de 5 km par la route (%),"Habitants par USP, CMS ou hôpital",0.388,4.552483206454325e-15,380,True,6.373476489036054e-14,True,0.555
+densite_hab_km2,pct_hab_reseau_bt,Densité (hab./km²),Habitants à moins de 50 m du réseau BT (%),0.36,1.4593641325034774e-13,396,True,1.8971733722545205e-12,True,
+dist_hopital_med_km,hab_par_personnel,Distance médiane à l'hôpital (km),Habitants par agent de santé,0.344,9.850574757689162e-12,371,True,1.1400718150768771e-10,True,0.372
+part_hab_5km_geodata,hab_par_personnel,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",Habitants par agent de santé,0.344,9.500598458973975e-12,371,True,1.1400718150768771e-10,True,0.384
+dist_route_med_km,hab_par_personnel,Distance médiane par la route (km),Habitants par agent de santé,0.328,9.815683876728927e-11,371,True,9.815683876728928e-10,True,0.342
+part_loc_5km,hab_par_personnel,Localités à plus de 5 km par la route (%),Habitants par agent de santé,0.314,5.96986305902421e-10,371,True,4.775890447219368e-09,True,0.327
+part_hab_5km,pct_hab_reseau_bt,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",Habitants à moins de 50 m du réseau BT (%),-0.31,2.9383867478909136e-10,396,True,2.6445480731018225e-09,True,-0.146
+part_hab_5km,hab_par_personnel,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",Habitants par agent de santé,0.263,2.8131229370530986e-07,371,True,1.969186055937169e-06,True,0.265
+dist_hopital_med_km,hab_par_centre,Distance médiane à l'hôpital (km),"Habitants par USP, CMS ou hôpital",0.258,3.3084402073661684e-07,380,True,1.985064124419701e-06,True,0.422
+hab_par_centre,pct_hab_reseau_bt,"Habitants par USP, CMS ou hôpital",Habitants à moins de 50 m du réseau BT (%),-0.237,2.950074268306661e-06,380,True,1.4750371341533304e-05,True,-0.31
+hab_par_personnel,km_route_km2,Habitants par agent de santé,Densité routière (km/km²),-0.168,0.0011482732265784622,371,True,0.004593092906313849,True,-0.165
+densite_hab_km2,hab_par_centre,Densité (hab./km²),"Habitants par USP, CMS ou hôpital",0.129,0.011844355379098231,380,True,0.03553306613729469,True,
+hab_par_centre,km_route_km2,"Habitants par USP, CMS ou hôpital",Densité routière (km/km²),-0.126,0.01394881866651978,380,True,0.03553306613729469,True,-0.325
+densite_hab_km2,hab_par_personnel,Densité (hab./km²),Habitants par agent de santé,-0.076,0.14491264871368012,371,False,0.14491264871368012,False,

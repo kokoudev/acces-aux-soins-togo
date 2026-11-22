@@ -1,0 +1,213 @@
+variable,libelle,canton_id,canton,prefecture,valeur,sens,seuil
+densite_hab_km2,Densité (hab./km²),A01001001,Agoè-Nyivé,Agoè-Nyivé,7488.07,haut,436.71
+densite_hab_km2,Densité (hab./km²),A01002002,Légbassito,Agoè-Nyivé,5040.94,haut,436.71
+densite_hab_km2,Densité (hab./km²),A01003003,Vakpossito,Agoè-Nyivé,8129.2,haut,436.71
+densite_hab_km2,Densité (hab./km²),A01004004,Togblekope,Agoè-Nyivé,4494.66,haut,436.71
+densite_hab_km2,Densité (hab./km²),A01005005,Sanguera,Agoè-Nyivé,4050.96,haut,436.71
+densite_hab_km2,Densité (hab./km²),A01006006,Adétikopé,Agoè-Nyivé,2025.69,haut,436.71
+densite_hab_km2,Densité (hab./km²),A03009017,Afagnangan,Bas-Mono,480.03,haut,436.71
+densite_hab_km2,Densité (hab./km²),A04011022,Bè-Est,Golfe,5846.27,haut,436.71
+densite_hab_km2,Densité (hab./km²),A04012023,Bè-Centre,Golfe,7639.22,haut,436.71
+densite_hab_km2,Densité (hab./km²),A04013024,Bè-Ouest,Golfe,2308.07,haut,436.71
+densite_hab_km2,Densité (hab./km²),A04014025,Amoutivé,Golfe,11489.64,haut,436.71
+densite_hab_km2,Densité (hab./km²),A04015026,Aflao-Gakli,Golfe,8750.35,haut,436.71
+densite_hab_km2,Densité (hab./km²),A04016027,Baguida,Golfe,4866.1,haut,436.71
+densite_hab_km2,Densité (hab./km²),A04017028,Aflao-Sagbado,Golfe,5265.64,haut,436.71
+densite_hab_km2,Densité (hab./km²),A05018029,Aného,Lacs,1902.84,haut,436.71
+densite_hab_km2,Densité (hab./km²),A05018030,Glidji,Lacs,773.63,haut,436.71
+densite_hab_km2,Densité (hab./km²),A05018031,Canton D’Aneho,Lacs,1902.84,haut,436.71
+densite_hab_km2,Densité (hab./km²),A05020034,Agbodrafo,Lacs,995.23,haut,436.71
+densite_hab_km2,Densité (hab./km²),A05020035,Gbodjomé,Lacs,1643.65,haut,436.71
+densite_hab_km2,Densité (hab./km²),A05021035,Anfoin,Lacs,1061.64,haut,436.71
+densite_hab_km2,Densité (hab./km²),A06022038,Vogan,Vo,446.46,haut,436.71
+densite_hab_km2,Densité (hab./km²),A06022039,Vo-Koutimé,Vo,563.73,haut,436.71
+densite_hab_km2,Densité (hab./km²),A06024043,Dzrékpo,Vo,680.55,haut,436.71
+densite_hab_km2,Densité (hab./km²),A06024044,Mome-Hounkpati,Vo,457.19,haut,436.71
+densite_hab_km2,Densité (hab./km²),A07026048,Tabligbo,Yoto,622.42,haut,436.71
+densite_hab_km2,Densité (hab./km²),A08029060,Tsévié,Zio,832.63,haut,436.71
+densite_hab_km2,Densité (hab./km²),A08029061,Davié,Zio,547.08,haut,436.71
+densite_hab_km2,Densité (hab./km²),A08029064,Djagblé,Zio,3974.02,haut,436.71
+densite_hab_km2,Densité (hab./km²),A08030068,Mission-Tové,Zio,1373.94,haut,436.71
+densite_hab_km2,Densité (hab./km²),B01032079,Kati,Agou,488.81,haut,436.71
+densite_hab_km2,Densité (hab./km²),B08051140,Agome-Kpalime,Kloto,2445.46,haut,436.71
+densite_hab_km2,Densité (hab./km²),B11058170,Gnagna,Ogou,1119.7,haut,436.71
+densite_hab_km2,Densité (hab./km²),C05076237,Sokodè (Komah),Tchaoudjo,963.72,haut,436.71
+densite_hab_km2,Densité (hab./km²),D03088270,Kétao,Binah,641.01,haut,436.71
+densite_hab_km2,Densité (hab./km²),D07097310,Commune De Kara,Kozah,1264.81,haut,436.71
+densite_hab_km2,Densité (hab./km²),E01101324,Boadé,Cinkassé,446.89,haut,436.71
+densite_hab_km2,Densité (hab./km²),E01101325,Cinkassé,Cinkassé,1407.34,haut,436.71
+densite_hab_km2,Densité (hab./km²),E01102328,Timbou,Cinkassé,469.41,haut,436.71
+densite_hab_km2,Densité (hab./km²),E03105335,Nayéga,Kpendjal-Ouest,574.87,haut,436.71
+densite_hab_km2,Densité (hab./km²),E03106337,Papri,Kpendjal-Ouest,521.37,haut,436.71
+densite_hab_km2,Densité (hab./km²),E03106338,Tambonga,Kpendjal-Ouest,460.31,haut,436.71
+densite_hab_km2,Densité (hab./km²),E07113374,Dapaong,Tône,653.69,haut,436.71
+densite_hab_km2,Densité (hab./km²),E07116387,Kantindi,Tône,439.09,haut,436.71
+part_hab_5km,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",B04041117,Glitto,Anié,68.09,haut,65.89
+part_hab_5km,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",C01067207,M'Poti,Blitta,90.91,haut,65.89
+part_hab_5km,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",C02068208,Kagnigbara,Mô,71.43,haut,65.89
+part_hab_5km,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",C03071220,Fazao,Sotouboua,100.0,haut,65.89
+part_hab_5km,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",C04075232,Goubi,Tchamba,66.67,haut,65.89
+part_hab_5km,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",C04075233,Kaboli,Tchamba,83.33,haut,65.89
+part_hab_5km,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",D04091280,Nawaré,Dankpen,73.68,haut,65.89
+part_hab_5km,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",E02103330,Tambigou,Kpendjal,88.89,haut,65.89
+part_hab_5km,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",E05107349,Tchamonga,Oti-Sud,72.41,haut,65.89
+part_hab_5km,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",E05108353,Koumongou,Oti-Sud,80.0,haut,65.89
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",B04041117,Glitto,Anié,63.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",B12062176,Kpété-Béna,Wawa,51.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",C01067198,Tintchro,Blitta,59.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",C01067199,Welly,Blitta,52.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",C01067207,M'Poti,Blitta,58.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",C02069212,Tindjasse,Mô,52.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",C03071220,Fazao,Sotouboua,100.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",C04075232,Goubi,Tchamba,67.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",D02083253,Baghan,Bassar,62.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",D02083255,Kalanga,Bassar,51.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",D02084258,Bangeli,Bassar,52.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",D04089273,Katchamba,Dankpen,52.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",D04091280,Nawaré,Dankpen,71.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",D04091282,Nandouta,Dankpen,60.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",D04091283,Kidjabou,Dankpen,53.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",D06095303,Ataloté,Kéran,54.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",E02103330,Tambigou,Kpendjal,86.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",E02104333,Borgou,Kpendjal,77.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",E05107350,Mogou,Oti-Sud,59.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",E05108352,Kountoire,Oti-Sud,73.0,haut,50.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",E07116386,Louanga,Tône,57.0,haut,50.0
+dist_route_med_km,Distance médiane par la route (km),B05043121,Danyi-Kpeto-Evita,Danyi,19.89,haut,12.93
+dist_route_med_km,Distance médiane par la route (km),B10056164,Ahassomè,Moyen-Mono,13.03,haut,12.93
+dist_route_med_km,Distance médiane par la route (km),B12062177,Tomégbé,Wawa,18.26,haut,12.93
+dist_route_med_km,Distance médiane par la route (km),C02068208,Kagnigbara,Mô,17.66,haut,12.93
+dist_route_med_km,Distance médiane par la route (km),C02068209,Boulohou,Mô,14.64,haut,12.93
+dist_route_med_km,Distance médiane par la route (km),C02068210,Djarkpanga,Mô,19.95,haut,12.93
+dist_route_med_km,Distance médiane par la route (km),C02069211,Saïboudè,Mô,36.18,haut,12.93
+dist_route_med_km,Distance médiane par la route (km),C02069212,Tindjasse,Mô,34.36,haut,12.93
+dist_route_med_km,Distance médiane par la route (km),D04090276,Namon,Dankpen,23.91,haut,12.93
+dist_route_med_km,Distance médiane par la route (km),D04090279,Koutchitchéou,Dankpen,13.89,haut,12.93
+dist_route_med_km,Distance médiane par la route (km),D04091280,Nawaré,Dankpen,13.2,haut,12.93
+dist_route_med_km,Distance médiane par la route (km),E02103330,Tambigou,Kpendjal,29.4,haut,12.93
+dist_route_med_km,Distance médiane par la route (km),E02103331,Koundjoaré,Kpendjal,16.4,haut,12.93
+dist_route_med_km,Distance médiane par la route (km),E02103332,Mandouri,Kpendjal,39.17,haut,12.93
+dist_route_med_km,Distance médiane par la route (km),E05108352,Kountoire,Oti-Sud,13.69,haut,12.93
+dist_hopital_med_km,Distance médiane à l'hôpital (km),B04041117,Glitto,Anié,60.98,haut,53.09
+dist_hopital_med_km,Distance médiane à l'hôpital (km),B05043122,Danyi-Elavagnon,Danyi,74.13,haut,53.09
+dist_hopital_med_km,Distance médiane à l'hôpital (km),B11061175,Ountivou,Ogou,54.85,haut,53.09
+dist_hopital_med_km,Distance médiane à l'hôpital (km),C01067202,Atchintsè,Blitta,53.69,haut,53.09
+dist_hopital_med_km,Distance médiane à l'hôpital (km),C02069211,Saïboudè,Mô,71.25,haut,53.09
+dist_hopital_med_km,Distance médiane à l'hôpital (km),C04074229,Bago,Tchamba,57.0,haut,53.09
+dist_hopital_med_km,Distance médiane à l'hôpital (km),C04075232,Goubi,Tchamba,54.62,haut,53.09
+dist_hopital_med_km,Distance médiane à l'hôpital (km),C04075233,Kaboli,Tchamba,60.12,haut,53.09
+dist_hopital_med_km,Distance médiane à l'hôpital (km),D04090276,Namon,Dankpen,61.6,haut,53.09
+dist_hopital_med_km,Distance médiane à l'hôpital (km),D06094300,Akpontè,Kéran,61.17,haut,53.09
+dist_hopital_med_km,Distance médiane à l'hôpital (km),E05107351,Gando,Oti-Sud,55.75,haut,53.09
+hab_par_centre,"Habitants par USP, CMS ou hôpital",A06024044,Mome-Hounkpati,Vo,16758.0,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",A08029064,Djagblé,Zio,32727.5,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",A08030068,Mission-Tové,Zio,18931.33,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",B04041117,Glitto,Anié,23415.0,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",B10057166,Kpékplémé,Moyen-Mono,22135.0,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",C02068210,Djarkpanga,Mô,19374.0,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",C04073228,Tchamba,Tchamba,16130.67,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",D04089274,Guérin-Kouka,Dankpen,24199.5,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",D04091280,Nawaré,Dankpen,18253.0,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",D06095303,Ataloté,Kéran,17429.0,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",E01102328,Timbou,Cinkassé,21709.0,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",E02103331,Koundjoaré,Kpendjal,17926.0,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",E02104333,Borgou,Kpendjal,40462.0,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",E03105334,Naki-Est,Kpendjal-Ouest,24761.0,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",E03105335,Nayéga,Kpendjal-Ouest,19235.0,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",E04110344,Barkoissi,Oti,21060.0,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",E05107350,Mogou,Oti-Sud,30442.0,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",E05107351,Gando,Oti-Sud,20687.0,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",E06112365,Nano,Tandjoaré,17093.0,haut,15949.31
+hab_par_centre,"Habitants par USP, CMS ou hôpital",E07114381,Naki-Ouest,Tône,24016.0,haut,15949.31
+hab_par_personnel,Habitants par agent de santé,A02007010,Ando,Avé,3577.61,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,A07028056,Tométy-Kondji,Yoto,3022.67,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,A07028057,Sendome,Yoto,3318.33,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,A08029062,Gblainvié,Zio,9225.0,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,A08029064,Djagblé,Zio,4363.67,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,A08030068,Mission-Tové,Zio,3340.82,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,B02036097,Kamina-Akébou,Akébou,2926.4,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,B06045128,Kamina,Est-Mono,5138.4,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,B07050139,Akpakpakpé,Haho,3092.25,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,B08052148,Lavié-Apédomé,Kloto,3251.27,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,B10056163,Tado,Moyen-Mono,3695.2,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,B10057165,Katomé,Moyen-Mono,8105.0,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,B10057166,Kpékplémé,Moyen-Mono,3162.14,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,B11059172,Datcha,Ogou,3036.0,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,B12063181,Ekéto,Wawa,3402.33,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,C01065187,Pagala-Gare,Blitta,4622.4,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,C01065190,Blitta,Blitta,4689.0,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,D04091281,Bapuré,Dankpen,4238.0,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,E02104333,Borgou,Kpendjal,3371.83,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,E03105335,Nayéga,Kpendjal-Ouest,3847.0,haut,2904.48
+hab_par_personnel,Habitants par agent de santé,E07116386,Louanga,Tône,5717.0,haut,2904.48
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),A01001001,Agoè-Nyivé,Agoè-Nyivé,93.0,haut,60.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),A01002002,Légbassito,Agoè-Nyivé,73.0,haut,60.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),A01003003,Vakpossito,Agoè-Nyivé,99.0,haut,60.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),A01005005,Sanguera,Agoè-Nyivé,65.0,haut,60.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),A04011022,Bè-Est,Golfe,73.0,haut,60.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),A04012023,Bè-Centre,Golfe,93.0,haut,60.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),A04013024,Bè-Ouest,Golfe,68.0,haut,60.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),A04014025,Amoutivé,Golfe,91.0,haut,60.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),A04015026,Aflao-Gakli,Golfe,95.0,haut,60.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),A04016027,Baguida,Golfe,78.0,haut,60.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),A04017028,Aflao-Sagbado,Golfe,71.0,haut,60.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),A05018029,Aného,Lacs,77.0,haut,60.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),A05018031,Canton D’Aneho,Lacs,74.0,haut,60.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),A05020035,Gbodjomé,Lacs,62.0,haut,60.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),A07028055,Gboto,Yoto,62.0,haut,60.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),B01033080,Agou-Nyogbo-Dzidjole,Agou,67.0,haut,60.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),B01033081,Agou-Kébo,Agou,63.0,haut,60.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),B05042119,Yikpa,Danyi,69.0,haut,60.0
+km_route_km2,Densité routière (km/km²),A01001001,Agoè-Nyivé,Agoè-Nyivé,15.49,haut,2.49
+km_route_km2,Densité routière (km/km²),A01002002,Légbassito,Agoè-Nyivé,13.85,haut,2.49
+km_route_km2,Densité routière (km/km²),A01003003,Vakpossito,Agoè-Nyivé,19.2,haut,2.49
+km_route_km2,Densité routière (km/km²),A01004004,Togblekope,Agoè-Nyivé,8.26,haut,2.49
+km_route_km2,Densité routière (km/km²),A01005005,Sanguera,Agoè-Nyivé,13.37,haut,2.49
+km_route_km2,Densité routière (km/km²),A01006006,Adétikopé,Agoè-Nyivé,7.88,haut,2.49
+km_route_km2,Densité routière (km/km²),A02008013,Aképé,Avé,3.71,haut,2.49
+km_route_km2,Densité routière (km/km²),A03009016,Afagnan-Gbléta,Bas-Mono,3.52,haut,2.49
+km_route_km2,Densité routière (km/km²),A03009017,Afagnangan,Bas-Mono,4.92,haut,2.49
+km_route_km2,Densité routière (km/km²),A03010018,Attitogon,Bas-Mono,3.7,haut,2.49
+km_route_km2,Densité routière (km/km²),A03010019,Hompou,Bas-Mono,3.31,haut,2.49
+km_route_km2,Densité routière (km/km²),A04011022,Bè-Est,Golfe,9.7,haut,2.49
+km_route_km2,Densité routière (km/km²),A04012023,Bè-Centre,Golfe,15.62,haut,2.49
+km_route_km2,Densité routière (km/km²),A04013024,Bè-Ouest,Golfe,10.79,haut,2.49
+km_route_km2,Densité routière (km/km²),A04014025,Amoutivé,Golfe,17.68,haut,2.49
+km_route_km2,Densité routière (km/km²),A04015026,Aflao-Gakli,Golfe,17.94,haut,2.49
+km_route_km2,Densité routière (km/km²),A04016027,Baguida,Golfe,11.51,haut,2.49
+km_route_km2,Densité routière (km/km²),A04017028,Aflao-Sagbado,Golfe,16.0,haut,2.49
+km_route_km2,Densité routière (km/km²),A05018029,Aného,Lacs,5.27,haut,2.49
+km_route_km2,Densité routière (km/km²),A05018030,Glidji,Lacs,6.22,haut,2.49
+km_route_km2,Densité routière (km/km²),A05018031,Canton D’Aneho,Lacs,11.88,haut,2.49
+km_route_km2,Densité routière (km/km²),A05019032,Aklakou,Lacs,2.67,haut,2.49
+km_route_km2,Densité routière (km/km²),A05019033,Agouégan,Lacs,3.44,haut,2.49
+km_route_km2,Densité routière (km/km²),A05020034,Agbodrafo,Lacs,7.67,haut,2.49
+km_route_km2,Densité routière (km/km²),A05020035,Gbodjomé,Lacs,7.17,haut,2.49
+km_route_km2,Densité routière (km/km²),A05021035,Anfoin,Lacs,9.44,haut,2.49
+km_route_km2,Densité routière (km/km²),A05021036,Fiata,Lacs,5.86,haut,2.49
+km_route_km2,Densité routière (km/km²),A05021037,Ganavé,Lacs,7.12,haut,2.49
+km_route_km2,Densité routière (km/km²),A06022038,Vogan,Vo,4.85,haut,2.49
+km_route_km2,Densité routière (km/km²),A06022039,Vo-Koutimé,Vo,4.86,haut,2.49
+km_route_km2,Densité routière (km/km²),A06023040,Togoville,Vo,5.39,haut,2.49
+km_route_km2,Densité routière (km/km²),A06023041,Anyron-Kopé,Vo,5.76,haut,2.49
+km_route_km2,Densité routière (km/km²),A06024043,Dzrékpo,Vo,3.18,haut,2.49
+km_route_km2,Densité routière (km/km²),A06025046,Hahotoé,Vo,2.93,haut,2.49
+km_route_km2,Densité routière (km/km²),A07026048,Tabligbo,Yoto,4.31,haut,2.49
+km_route_km2,Densité routière (km/km²),A07027053,Ahépé,Yoto,2.87,haut,2.49
+km_route_km2,Densité routière (km/km²),A08029060,Tsévié,Zio,6.98,haut,2.49
+km_route_km2,Densité routière (km/km²),A08029061,Davié,Zio,6.19,haut,2.49
+km_route_km2,Densité routière (km/km²),A08029063,Abobo,Zio,4.39,haut,2.49
+km_route_km2,Densité routière (km/km²),A08029064,Djagblé,Zio,12.65,haut,2.49
+km_route_km2,Densité routière (km/km²),A08029065,Kpomé,Zio,2.94,haut,2.49
+km_route_km2,Densité routière (km/km²),A08029066,Dalavé,Zio,3.44,haut,2.49
+km_route_km2,Densité routière (km/km²),A08030068,Mission-Tové,Zio,6.67,haut,2.49
+km_route_km2,Densité routière (km/km²),B08051140,Agome-Kpalime,Kloto,9.9,haut,2.49
+km_route_km2,Densité routière (km/km²),C05076237,Sokodè (Komah),Tchaoudjo,3.54,haut,2.49
+km_route_km2,Densité routière (km/km²),D07097307,Landa,Kozah,2.87,haut,2.49
+km_route_km2,Densité routière (km/km²),D07097308,Soumdina,Kozah,2.76,haut,2.49
+km_route_km2,Densité routière (km/km²),D07097310,Commune De Kara,Kozah,3.35,haut,2.49
+km_route_km2,Densité routière (km/km²),D07098313,Pya,Kozah,2.66,haut,2.49
+km_route_km2,Densité routière (km/km²),D07098314,Tchitchao,Kozah,2.91,haut,2.49
+km_route_km2,Densité routière (km/km²),D07098315,Bohou,Kozah,3.03,haut,2.49
+km_route_km2,Densité routière (km/km²),D07098317,Yadè,Kozah,6.51,haut,2.49
+km_route_km2,Densité routière (km/km²),E07113374,Dapaong,Tône,2.97,haut,2.49

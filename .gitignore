@@ -1,0 +1,23 @@
+# Environnements et caches Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# Secrets
+.env
+.env.*
+
+# Configuration locale d'outils
+.claude/
+CLAUDE.md
+.mcp.json
+
+# Système / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

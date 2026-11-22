@@ -1,0 +1,198 @@
+/* Charte du tableau de bord du Data Challenge Togo.
+   Les couleurs ne sont PAS définies ici : elles viennent de dashboard/theme.py (une seule source),
+   injectées dans la page sous forme de variables (--vert, --jaune, --rouge, --gravite-0 à 4…).
+   Le vert sert aux accents, boutons et focus ; le rouge est réservé aux alertes. */
+:root {
+  --rayon: 6px;
+  --gouttiere: 24px;
+  --ecart-section: 32px;
+  --ecart-bloc: 24px;
+  font-size: 16px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--surface);
+  color: var(--encre-1);
+  font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif;
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+a { color: var(--vert); }
+a:focus-visible, button:focus-visible, [tabindex]:focus-visible, input:focus-visible {
+  outline: 2px solid var(--vert);
+  outline-offset: 2px;
+}
+
+.page { max-width: 1320px; margin: 0 auto; padding: 0 var(--gouttiere) 48px; }
+
+/* En-tête */
+.entete { border-bottom: 4px solid var(--vert); background: var(--carte); }
+.entete-interieur {
+  max-width: 1320px; margin: 0 auto; padding: 20px var(--gouttiere) 16px;
+  display: flex; flex-wrap: wrap; gap: 12px 32px; align-items: flex-end; justify-content: space-between;
+}
+.surtitre {
+  margin: 0 0 4px; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.06em;
+  text-transform: uppercase; color: var(--vert);
+}
+.entete h1 { margin: 0; font-size: 1.75rem; font-weight: 700; color: var(--encre-1); }
+.entete .sous-titre { margin: 4px 0 0; color: var(--encre-2); max-width: 760px; }
+.bandeau-drapeau { display: flex; height: 4px; }
+.bandeau-drapeau span { flex: 1; }
+
+/* Barre de filtres */
+.filtres {
+  display: flex; flex-wrap: wrap; gap: 16px 24px; align-items: flex-end;
+  padding: 16px 0; border-bottom: 1px solid var(--bordure); margin-bottom: var(--ecart-bloc);
+}
+.filtre { display: flex; flex-direction: column; gap: 4px; min-width: 200px; }
+.filtre label, .etiquette { font-size: 0.82rem; font-weight: 600; color: var(--encre-2); }
+.filtre-large { min-width: 320px; flex: 1 1 320px; }
+
+/* Listes déroulantes Dash 4 : focus vert de 2 px, sans contour violet par défaut */
+.dash-dropdown, .dash-dropdown * { box-shadow: none !important; }
+.dash-dropdown:focus-within, .dash-dropdown-trigger:focus, .dash-dropdown-trigger:focus-visible {
+  outline: 2px solid var(--vert) !important; outline-offset: 0; border-radius: var(--rayon);
+}
+
+/* Fil d'Ariane et retour */
+.fil { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin: 0 0 16px; }
+.fil-texte { font-size: 1rem; color: var(--encre-2); }
+.fil-texte strong { color: var(--encre-1); }
+.bouton {
+  font: inherit; font-size: 0.9rem; font-weight: 600; cursor: pointer;
+  padding: 7px 14px; border-radius: var(--rayon);
+  border: 1px solid var(--vert); background: var(--carte); color: var(--vert);
+}
+.bouton:hover { background: var(--vert-pale); }
+.bouton-plein { background: var(--vert); color: var(--carte); }
+.bouton-plein:hover { background: var(--vert-fonce); }
+.bouton[disabled] { opacity: 0.45; cursor: default; }
+
+/* Niveau 1 : chiffres clés (cartes de même hauteur, alignées) */
+.section { margin-bottom: var(--ecart-section); }
+.section-titre { font-size: 1.25rem; font-weight: 700; margin: 0 0 4px; }
+.section-chapo { margin: 0 0 16px; color: var(--encre-2); }
+
+.chiffres { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; align-items: stretch; }
+.chiffre {
+  display: flex; flex-direction: column; height: 100%;
+  background: var(--carte); border: 1px solid var(--bordure); border-radius: var(--rayon);
+  padding: 16px 18px; border-top: 3px solid var(--vert);
+}
+.chiffre.alerte { border-top-color: var(--rouge); }
+.chiffre-valeur { font-size: 2rem; font-weight: 700; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.chiffre-unite { font-size: 1rem; font-weight: 600; color: var(--encre-2); margin-left: 4px; }
+.chiffre-libelle { margin-top: 6px; font-size: 0.92rem; color: var(--encre-2); }
+.chiffre-repere { margin-top: auto; padding-top: 8px; font-size: 0.82rem; color: var(--encre-3); }
+.pastille-alerte {
+  display: inline-block; margin-right: 6px; padding: 0 6px; border-radius: 3px;
+  background: var(--rouge-pale); color: var(--rouge-texte); font-weight: 700; font-size: 0.75rem;
+}
+
+.phrase {
+  margin-top: 16px; padding: 16px 20px; background: var(--vert-pale);
+  border-left: 4px solid var(--vert); border-radius: 0 var(--rayon) var(--rayon) 0;
+  font-size: 1.08rem; color: var(--encre-1);
+}
+
+/* Grille carte + classement */
+.grille-2 { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: var(--ecart-bloc); }
+.panneau {
+  background: var(--carte); border: 1px solid var(--bordure); border-radius: var(--rayon);
+  padding: 16px 18px 12px;
+}
+.panneau h3 { margin: 0 0 2px; font-size: 1.05rem; font-weight: 700; }
+.panneau .aide { margin: 0 0 8px; font-size: 0.88rem; color: var(--encre-3); }
+.panneau .sous-titre { margin: 0 0 8px; font-size: 0.92rem; color: var(--encre-2); }
+.source { margin: 8px 0 0; font-size: 0.78rem; color: var(--encre-3); }
+.controles-panneau { display: flex; flex-wrap: wrap; gap: 12px 20px; margin: 8px 0; align-items: center; }
+
+/* Carte + légende placée à côté (jamais coupée) */
+.carte-et-legende { display: flex; gap: 16px; align-items: stretch; }
+.carte-graphe { flex: 1 1 auto; min-width: 0; }
+.legende-carte {
+  flex: 0 0 200px; align-self: center; display: flex; flex-direction: column; gap: 6px;
+  font-size: 0.85rem; color: var(--encre-1);
+}
+.legende-titre { margin: 0 0 4px; font-weight: 700; font-size: 0.85rem; color: var(--encre-1); }
+.legende-ligne { display: flex; align-items: center; gap: 8px; line-height: 1.25; }
+.legende-symbole { flex: 0 0 auto; width: 16px; height: 16px; border-radius: 3px; border: 1px solid var(--bordure); }
+.legende-rond { width: 10px; height: 10px; border-radius: 50%; margin: 0 3px; }
+.legende-losange { width: 10px; height: 10px; border-radius: 1px; transform: rotate(45deg); margin: 0 3px; border: none; }
+.pastille-groupe {
+  display: inline-block; width: 12px; height: 12px; border-radius: 50%; margin-right: 8px; vertical-align: -1px;
+}
+
+/* Onglets experts */
+.onglets { margin-top: 8px; }
+.onglets .tab {
+  font-weight: 600; color: var(--encre-2); border: none !important;
+  border-bottom: 3px solid transparent !important; background: transparent !important; padding: 10px 16px !important;
+}
+.onglets .tab--selected { color: var(--vert-fonce) !important; border-bottom-color: var(--vert) !important; }
+.onglets-contenu { padding-top: 16px; }
+
+.texte-methode { max-width: 900px; }
+.texte-methode h4 { margin: 20px 0 6px; font-size: 1rem; }
+.texte-methode p, .texte-methode li { color: var(--encre-1); }
+
+table.simple { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+table.simple th, table.simple td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--bordure); vertical-align: top; }
+table.simple th { color: var(--encre-2); font-weight: 600; background: var(--surface); }
+table.simple td.nombre { text-align: right; font-variant-numeric: tabular-nums; }
+.tableau-defilant { overflow-x: auto; }
+
+/* Composants Dash */
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner th {
+  background: var(--surface) !important; color: var(--encre-2) !important; font-weight: 600 !important;
+}
+.radio-ligne label, .coches label { margin-right: 14px; font-size: 0.92rem; cursor: pointer; color: var(--encre-1) !important; }
+.radio-ligne input, .coches input { margin-right: 5px; accent-color: var(--vert); }
+
+.pied { margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--bordure); font-size: 0.85rem; color: var(--encre-3); }
+
+/* Onglet Solutions : impact, territoires, limite */
+.solution-cadre {
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px;
+  margin: 12px 0 16px; padding: 14px 16px; background: var(--surface);
+  border: 1px solid var(--bordure); border-radius: var(--rayon);
+}
+.solution-etiquette {
+  display: block; margin-bottom: 4px; font-size: 0.78rem; font-weight: 700;
+  letter-spacing: 0.04em; text-transform: uppercase; color: var(--vert-fonce);
+}
+.solution-limite { color: var(--rouge-texte); }
+.sous-titre-panneau { margin: 4px 0 4px; font-size: 0.98rem; font-weight: 700; }
+
+/* Responsive */
+@media (max-width: 1080px) {
+  .chiffres { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .grille-2 { grid-template-columns: minmax(0, 1fr); }
+  .solution-cadre { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 560px) {
+  :root { --gouttiere: 16px; }
+  .chiffres { grid-template-columns: minmax(0, 1fr); }
+  .entete h1 { font-size: 1.4rem; }
+  .filtre, .filtre-large { min-width: 100%; }
+  .chiffre-valeur { font-size: 1.7rem; }
+  .carte-et-legende { flex-direction: column; }
+  .legende-carte { flex: 0 0 auto; align-self: stretch; }
+  /* libellés longs des listes : retour à la ligne plutôt que texte coupé */
+  .dash-dropdown * { white-space: normal !important; text-overflow: clip !important; overflow-wrap: anywhere; }
+}
+
+/* Légende HTML du nuage (couleur + forme par groupe) */
+.legende-nuage { display: flex; flex-wrap: wrap; gap: 6px 20px; margin: 4px 0 8px; font-size: 0.88rem; }
+.legende-carre { width: 11px; height: 11px; border-radius: 1px; border: none; margin: 0 2px; }
+.legende-triangle {
+  width: 0; height: 0; border-radius: 0; background: none !important;
+  border-left: 7px solid transparent; border-right: 7px solid transparent; border-bottom: 12px solid; border-top: none;
+}
+.legende-nuage .legende-rond, .legende-nuage .legende-losange { border: none; }

@@ -1,0 +1,7 @@
+composante,habitants,seuil,part_population_pct,part_estimation_haute_pct
+Estimation haute : habitants à plus de 5 km par la route,2361016,toutes,29.16,100.0
+… dont aussi à plus de 5 km à vol d'oiseau (éloignement réel),1026437,toutes,12.68,43.47
+… dont à moins de 5 km à vol d'oiseau mais à plus de 500 m du réseau routier connecté,826591,seuil 500 m,10.21,35.01
+… dont à moins de 5 km à vol d'oiseau mais à plus de 1000 m du réseau routier connecté,575643,seuil 1000 m,7.11,24.38
+… dont à moins de 5 km à vol d'oiseau mais à plus de 2000 m du réseau routier connecté,272718,seuil 2000 m,3.37,11.55
+… dont à moins de 5 km à vol d'oiseau et à moins de 1000 m du réseau (détours du réseau),758937,seuil 1000 m,9.37,32.14

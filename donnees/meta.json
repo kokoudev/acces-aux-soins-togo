@@ -1,0 +1,28 @@
+{
+ "tronçons_sources": 66612,
+ "segments_apres_decoupage": 187237,
+ "tolerance_raccord_m": 50,
+ "raccords_ajoutes": 28229,
+ "noeuds_composante_principale": 122326,
+ "part_longueur_composante_principale": 0.8828,
+ "destinations_fs": 2271,
+ "destinations_soins": 2027,
+ "destinations_hopital": 152,
+ "origines": 7938,
+ "origines_points_representatifs": 0,
+ "part_origines_acces_reseau_sup_2km": 0.1216,
+ "rapport_median_route_sur_vol_soins": 1.698,
+ "national": {
+  "population_2022": 8095498.0,
+  "pop_5km_geodata": 777936.2962311301,
+  "pop_5km": 1026436.9390195155,
+  "pop_5km_route": 2361016.479234089,
+  "dist_vol_med_km": 2.38368235330445,
+  "dist_hopital_vol_med_km": 11.545978969029292,
+  "nb_centres": 2027,
+  "dist_route_med_km": 4.45010921083916,
+  "dist_hopital_med_km": 18.244375850018848,
+  "part_loc_5km": 45.84278155706727,
+  "cantons_sans_centre": 16
+ }
+}

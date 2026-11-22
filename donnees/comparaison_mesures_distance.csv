@@ -1,0 +1,4 @@
+mesure,population,part_pct,rho_avec_geodata_par_canton
+"geodata : habitants à plus de 5 km (vol d'oiseau, pondéré par la population)",777936,9.6,1.0
+"localités à plus de 5 km à vol d'oiseau, population répartie également entre localités",1026437,12.7,0.896
+"localités à plus de 5 km par la route, population répartie également entre localités",2361016,29.2,0.765

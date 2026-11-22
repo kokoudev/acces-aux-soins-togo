@@ -1,0 +1,108 @@
+nom,type,niveau,secteur,canton,prefecture,region,population_canton,pct_hab_reseau_bt,lon,lat
+Case de Sante Adjala,Case de santé,autre,Privé,Atchinédji,Anié,Plateaux,18000.0,0.0,1.42055,7.58878
+Case de Santé Djonou Copé,Case de santé,autre,"ONG, associatif ou communautaire",Atchinédji,Anié,Plateaux,18000.0,0.0,1.47449,7.66641
+Case de Santé Dieu Benit,Case de santé,autre,Privé,Atchinédji,Anié,Plateaux,18000.0,0.0,1.38514,7.70582
+Case de Santé Gbegnafe,Case de santé,autre,Privé,Atchinédji,Anié,Plateaux,18000.0,0.0,1.38827,7.70717
+Case de Sante de Djerehounye,Case de santé,autre,Privé,Houdou,Ogou,Plateaux,10194.0,0.0,1.17383,7.61587
+Clinique la Main de Dieu,Case de santé,autre,Privé,Kati,Agou,Plateaux,8231.0,0.0,0.85367,6.89191
+Clinique Mawulikplime,Case de santé,autre,Privé,Kati,Agou,Plateaux,8231.0,0.0,0.85198,6.89269
+Case de Santé Dopekopé,Case de santé,autre,Privé,Agotimé-Sud (Adzakpa),Agou,Plateaux,7436.0,0.0,0.76639,6.60877
+Maison de Santé Adrakpo,Case de santé,autre,"ONG, associatif ou communautaire",Agotimé-Sud (Adzakpa),Agou,Plateaux,7436.0,0.0,0.77956,6.62122
+Case de Sante Kadjape,Case de santé,autre,Privé,Gamé,Amou,Plateaux,7377.0,0.0,0.98322,7.80103
+Case de Sante de Vhe_Nkougna,Case de santé,autre,Privé,Veh,Akébou,Plateaux,5315.0,0.0,0.73269,7.6662
+Case de Sante de Tchitchra,Case de santé,autre,"ONG, associatif ou communautaire",Massédéna,Doufelgou,Kara,3747.0,0.0,1.28989,10.00753
+Clinique Yebouame,"Hôpital (CHU, CHR, hôpital de district ou spécialisé)",hopital,Privé,Sissiak,Tandjoaré,Savanes,8343.0,0.0,0.0725,10.79629
+USP Ossacre,Unité de soins périphérique (USP) ou CMS,usp,Public,Ossacré,Kéran,Kara,19842.0,0.0,0.71279,10.07323
+USP Pangouda,Unité de soins périphérique (USP) ou CMS,usp,Public,Ossacré,Kéran,Kara,19842.0,0.0,0.79966,10.02196
+Centre de Santé Bien-Être,Unité de soins périphérique (USP) ou CMS,usp,Privé,Atchinédji,Anié,Plateaux,18000.0,0.0,1.36272,7.69189
+Clinique Ebenezer,Unité de soins périphérique (USP) ou CMS,usp,Privé,Atchinédji,Anié,Plateaux,18000.0,0.0,1.40574,7.6404
+Clinique Edah,Unité de soins périphérique (USP) ou CMS,usp,Privé,Atchinédji,Anié,Plateaux,18000.0,0.0,1.40617,7.63997
+Clinique Hassou,Unité de soins périphérique (USP) ou CMS,usp,Privé,Atchinédji,Anié,Plateaux,18000.0,0.0,1.45661,7.5857
+Clinique l'Homme Soigne Dieu Guerit,Unité de soins périphérique (USP) ou CMS,usp,Privé,Atchinédji,Anié,Plateaux,18000.0,0.0,1.38615,7.70623
+Clinique Saint John Mao,Unité de soins périphérique (USP) ou CMS,usp,Privé,Atchinédji,Anié,Plateaux,18000.0,0.0,1.40564,7.64314
+Poste de Sante la Grâce,Unité de soins périphérique (USP) ou CMS,usp,Privé,Atchinédji,Anié,Plateaux,18000.0,0.0,1.45754,7.58512
+USP Atchinedji,Unité de soins périphérique (USP) ou CMS,usp,Public,Atchinédji,Anié,Plateaux,18000.0,0.0,1.41422,7.68206
+USP Foukote-Vossa,Unité de soins périphérique (USP) ou CMS,usp,Public,Atchinédji,Anié,Plateaux,18000.0,0.0,1.36199,7.67609
+USP Kamina Akebou,Unité de soins périphérique (USP) ou CMS,usp,Public,Kamina-Akébou,Akébou,Plateaux,14632.0,0.0,0.85721,7.92528
+USP Tampialime,Unité de soins périphérique (USP) ou CMS,usp,Public,Tampialime,Tandjoaré,Savanes,14347.0,0.0,0.00491,10.75079
+USP Nandouta,Unité de soins périphérique (USP) ou CMS,usp,Public,Nandouta,Dankpen,Kara,14114.0,0.0,0.4057,9.59937
+USP Possao,Unité de soins périphérique (USP) ou CMS,usp,Public,Nandouta,Dankpen,Kara,14114.0,0.0,0.2489,9.55353
+USP Pansieri,Unité de soins périphérique (USP) ou CMS,usp,Public,Tchamonga,Oti-Sud,Savanes,13866.0,0.0,0.7416,10.70516
+USP TchamONGa,Unité de soins périphérique (USP) ou CMS,usp,Public,Tchamonga,Oti-Sud,Savanes,13866.0,0.0,0.73088,10.56172
+USP Tontondi,Unité de soins périphérique (USP) ou CMS,usp,Public,Tchamonga,Oti-Sud,Savanes,13866.0,0.0,0.56237,10.4688
+USP Kountoire,Unité de soins périphérique (USP) ou CMS,usp,Public,Kountoire,Oti-Sud,Savanes,13450.0,0.0,0.61873,10.11228
+USP Agbo Kope,Unité de soins périphérique (USP) ou CMS,usp,Public,Gbadi-N'kougna,Wawa,Plateaux,12929.0,0.0,0.67771,7.44291
+USP Gbadi N Kougna,Unité de soins périphérique (USP) ou CMS,usp,Public,Gbadi-N'kougna,Wawa,Plateaux,12929.0,0.0,0.70982,7.46048
+USP Akpakpape,Unité de soins périphérique (USP) ou CMS,usp,Public,Akpakpakpé,Haho,Plateaux,12369.0,0.0,1.07847,7.11507
+USP Kourientre,Unité de soins périphérique (USP) ou CMS,usp,Public,Kourientre,Tône,Savanes,12224.0,0.0,0.22925,11.01481
+USP Tchiegle,Unité de soins périphérique (USP) ou CMS,usp,Public,Kourientre,Tône,Savanes,12224.0,0.0,0.26642,11.04254
+USP Namaré,Unité de soins périphérique (USP) ou CMS,usp,Public,Namaré,Tône,Savanes,12103.0,0.0,0.09471,10.98746
+USP Koulang,Unité de soins périphérique (USP) ou CMS,usp,Public,Koffiti,Blitta,Centrale,10294.0,0.0,1.10726,8.0374
+CMS Bourkou,Unité de soins périphérique (USP) ou CMS,usp,Public,Alloum,Doufelgou,Kara,10239.0,0.0,0.91793,9.74097
+CRN Saint Kisito Ami des Enfants de Bourkou,Unité de soins périphérique (USP) ou CMS,usp,Confessionnel,Alloum,Doufelgou,Kara,10239.0,0.0,0.91877,9.73637
+USP Alloum,Unité de soins périphérique (USP) ou CMS,usp,Public,Alloum,Doufelgou,Kara,10239.0,0.0,0.98417,9.7342
+USP Anima,Unité de soins périphérique (USP) ou CMS,usp,Public,Alloum,Doufelgou,Kara,10239.0,0.0,1.03189,9.77769
+USP Awagome,Unité de soins périphérique (USP) ou CMS,usp,Public,Houdou,Ogou,Plateaux,10194.0,0.0,1.18165,7.64448
+USP Welly,Unité de soins périphérique (USP) ou CMS,usp,Public,Welly,Blitta,Centrale,10170.0,0.0,0.87851,8.07926
+Cabinet de Soins de Agbassa,Unité de soins périphérique (USP) ou CMS,usp,Public,Kadjalla,Doufelgou,Kara,9835.0,0.0,0.89473,9.78036
+USP Agounde,Unité de soins périphérique (USP) ou CMS,usp,Public,Kadjalla,Doufelgou,Kara,9835.0,0.0,0.88505,9.84137
+USP Kadjala,Unité de soins périphérique (USP) ou CMS,usp,Public,Kadjalla,Doufelgou,Kara,9835.0,0.0,0.97424,9.80513
+USP Kadogou,Unité de soins périphérique (USP) ou CMS,usp,Public,Koulféikou,Dankpen,Kara,9518.0,0.0,0.42177,9.89355
+USP Koulfiekou,Unité de soins périphérique (USP) ou CMS,usp,Public,Koulféikou,Dankpen,Kara,9518.0,0.0,0.4068,9.9825
+USP Samnaba,Unité de soins périphérique (USP) ou CMS,usp,Public,Sam-Naba,Cinkassé,Savanes,9361.0,0.0,0.16254,11.07241
+USP Kokou Temberma,Unité de soins périphérique (USP) ou CMS,usp,Public,Akpontè,Kéran,Kara,8877.0,0.0,0.92396,10.22398
+USP Natiponi,Unité de soins périphérique (USP) ou CMS,usp,Public,Akpontè,Kéran,Kara,8877.0,0.0,0.94994,10.18568
+Ups Gape-Avegan,Unité de soins périphérique (USP) ou CMS,usp,Public,Gapé-Kpodji,Zio,Maritime,8489.0,0.0,1.01857,6.5982
+USP Gape-Kpodji,Unité de soins périphérique (USP) ou CMS,usp,Public,Gapé-Kpodji,Zio,Maritime,8489.0,0.0,0.969,6.67333
+Clinique Koulmassi,Unité de soins périphérique (USP) ou CMS,usp,Privé,Sissiak,Tandjoaré,Savanes,8343.0,0.0,0.08584,10.80578
+CSI Nakpabak,Unité de soins périphérique (USP) ou CMS,usp,Privé,Sissiak,Tandjoaré,Savanes,8343.0,0.0,0.09003,10.7458
+USP Sissiak,Unité de soins périphérique (USP) ou CMS,usp,Public,Sissiak,Tandjoaré,Savanes,8343.0,0.0,0.13214,10.75176
+Cabinet de Soin Infirmier la Grâce,Unité de soins périphérique (USP) ou CMS,usp,Privé,Kati,Agou,Plateaux,8231.0,0.0,0.84824,6.88992
+USP Kati,Unité de soins périphérique (USP) ou CMS,usp,Public,Kati,Agou,Plateaux,8231.0,0.0,0.84439,6.88915
+Dispensaire de Katome,Unité de soins périphérique (USP) ou CMS,usp,Public,Katomé,Moyen-Mono,Plateaux,8105.0,0.0,1.61988,7.37923
+Dispensaire Dagnigan,Unité de soins périphérique (USP) ou CMS,usp,Public,Sérégbénè,Akébou,Plateaux,8013.0,0.0,0.75678,7.808
+USP Seregbene,Unité de soins périphérique (USP) ou CMS,usp,Public,Sérégbénè,Akébou,Plateaux,8013.0,0.0,0.73917,7.86971
+USP Agoudouvou,Unité de soins périphérique (USP) ou CMS,usp,Public,Agotimé-Sud (Adzakpa),Agou,Plateaux,7436.0,0.0,0.77887,6.56713
+USP Adzakpa,Unité de soins périphérique (USP) ou CMS,usp,Public,Agotimé-Sud (Adzakpa),Agou,Plateaux,7436.0,0.0,0.81156,6.63844
+USP Lankui,Unité de soins périphérique (USP) ou CMS,usp,Privé,Agotimé-Sud (Adzakpa),Agou,Plateaux,7436.0,0.0,0.79439,6.61306
+Dispensaire de Sevia,Unité de soins périphérique (USP) ou CMS,usp,Public,Gamé,Amou,Plateaux,7377.0,0.0,1.09558,7.72571
+USP Bato,Unité de soins périphérique (USP) ou CMS,usp,Public,Gamé,Amou,Plateaux,7377.0,0.0,0.94288,7.81477
+USP Game,Unité de soins périphérique (USP) ou CMS,usp,Public,Gamé,Amou,Plateaux,7377.0,0.0,1.06619,7.73908
+USP Baya Kope,Unité de soins périphérique (USP) ou CMS,usp,Public,Kpegnon (Haito),Haho,Plateaux,7262.0,0.0,0.93698,7.17108
+USP Haito,Unité de soins périphérique (USP) ou CMS,usp,Public,Kpegnon (Haito),Haho,Plateaux,7262.0,0.0,0.95926,7.21849
+USP Kpegnon Adja,Unité de soins périphérique (USP) ou CMS,usp,Public,Kpegnon (Haito),Haho,Plateaux,7262.0,0.0,1.02851,7.18969
+USP Pligou,Unité de soins périphérique (USP) ou CMS,usp,Public,Pligou,Tandjoaré,Savanes,7042.0,0.0,0.28838,10.65098
+USP Djaringue,Unité de soins périphérique (USP) ou CMS,usp,Public,Doukpergou,Tandjoaré,Savanes,7026.0,0.0,0.03399,10.61927
+USP Doukpelou,Unité de soins périphérique (USP) ou CMS,usp,Public,Doukpergou,Tandjoaré,Savanes,7026.0,0.0,0.06742,10.66104
+USP Wodagni,Unité de soins périphérique (USP) ou CMS,usp,Public,Kpalavé,Akébou,Plateaux,6989.0,0.0,0.8555,7.8495
+Centre de Sante Eketo,Unité de soins périphérique (USP) ou CMS,usp,Public,Ekéto,Wawa,Plateaux,6805.0,0.0,0.82893,7.49669
+USP Mamprougou,Unité de soins périphérique (USP) ou CMS,usp,Public,Mamproug,Tandjoaré,Savanes,6331.0,0.0,-0.03572,10.66003
+USP Poissongui,Unité de soins périphérique (USP) ou CMS,usp,Public,Poissongui,Tône,Savanes,6155.0,0.0,0.22213,11.03958
+USP Tanabe,Unité de soins périphérique (USP) ou CMS,usp,Public,Boulogou,Tandjoaré,Savanes,6101.0,0.0,0.28174,10.62357
+USP Brounfou,Unité de soins périphérique (USP) ou CMS,usp,Public,Gbendè,Akébou,Plateaux,6071.0,0.0,0.67379,7.73528
+USP Gbende,Unité de soins périphérique (USP) ou CMS,usp,Public,Gbendè,Akébou,Plateaux,6071.0,0.0,0.75184,7.75267
+USP Lokpano,Unité de soins périphérique (USP) ou CMS,usp,Public,Lokpano,Tandjoaré,Savanes,6025.0,0.0,0.11404,10.61099
+USP Kerekete,Unité de soins périphérique (USP) ou CMS,usp,Public,Loko,Oti,Savanes,5919.0,0.0,0.2314,10.49935
+USP Loko NassONGue,Unité de soins périphérique (USP) ou CMS,usp,Public,Loko,Oti,Savanes,5919.0,0.0,0.25106,10.57803
+USP Yalla,Unité de soins périphérique (USP) ou CMS,usp,Public,Yalla,Akébou,Plateaux,5530.0,0.0,0.66327,7.80115
+USP Didokpo,Unité de soins périphérique (USP) ou CMS,usp,Public,Otadi,Amou,Plateaux,5421.0,0.0,1.041,7.65014
+USP Oga,Unité de soins périphérique (USP) ou CMS,usp,Public,Otadi,Amou,Plateaux,5421.0,0.0,0.9131,7.63662
+USP Otadi,Unité de soins périphérique (USP) ou CMS,usp,Public,Otadi,Amou,Plateaux,5421.0,0.0,0.99857,7.65696
+USP Kagnigbara,Unité de soins périphérique (USP) ou CMS,usp,Public,Kagnigbara,Mô,Centrale,5317.0,0.0,0.65426,8.88263
+USP Vhe Etitiwui,Unité de soins périphérique (USP) ou CMS,usp,Public,Veh,Akébou,Plateaux,5315.0,0.0,0.69753,7.6725
+USP Koutougou,Unité de soins périphérique (USP) ou CMS,usp,Public,Koutougou,Kéran,Kara,4790.0,0.0,1.19555,10.052
+USP Tapounte,Unité de soins périphérique (USP) ou CMS,usp,Public,Koutougou,Kéran,Kara,4790.0,0.0,1.24744,10.04099
+USP Bena Plateau,Unité de soins périphérique (USP) ou CMS,usp,Public,Okou,Wawa,Plateaux,4765.0,0.0,0.91122,7.54231
+USP Okou,Unité de soins périphérique (USP) ou CMS,usp,Public,Okou,Wawa,Plateaux,4765.0,0.0,0.85274,7.56885
+USP Doume,Unité de soins périphérique (USP) ou CMS,usp,Public,Doumé,Wawa,Plateaux,4642.0,0.0,0.78979,7.54936
+USP Tchore,Unité de soins périphérique (USP) ou CMS,usp,Public,Tchoré,Doufelgou,Kara,3982.0,0.0,1.01643,9.84428
+Cabinet de Soins de Massedena,Unité de soins périphérique (USP) ou CMS,usp,Privé,Massédéna,Doufelgou,Kara,3747.0,0.0,1.27836,9.9505
+USP Massedena,Unité de soins périphérique (USP) ou CMS,usp,Public,Massédéna,Doufelgou,Kara,3747.0,0.0,1.28109,9.94956
+USP Koutchetcheou,Unité de soins périphérique (USP) ou CMS,usp,Public,Koutchitchéou,Dankpen,Kara,3742.0,0.0,0.77675,9.60752
+USP Pouda,Unité de soins périphérique (USP) ou CMS,usp,Public,Pouda,Doufelgou,Kara,3137.0,0.0,1.26002,9.90659
+USP NadONG,Unité de soins périphérique (USP) ou CMS,usp,Public,Sangou,Tandjoaré,Savanes,2620.0,0.0,0.05559,10.5908
+USP Akplolo,Unité de soins périphérique (USP) ou CMS,usp,Public,Agou-Akplolo,Agou,Plateaux,2609.0,0.0,0.77951,6.89058
+USP Dinguengue,Unité de soins périphérique (USP) ou CMS,usp,Public,Diguengué,Blitta,Centrale,1523.0,0.0,0.6399,8.08371
+USP Okpahoue,Unité de soins périphérique (USP) ou CMS,usp,Public,Okpahoé,Amou,Plateaux,1247.0,0.0,1.01763,7.61379
+CMS Ona,Unité de soins périphérique (USP) ou CMS,usp,Public,Gobé,Wawa,Plateaux,680.0,0.0,0.76536,7.5145
+USP Gobe,Unité de soins périphérique (USP) ou CMS,usp,Public,Gobé,Wawa,Plateaux,680.0,0.0,0.80703,7.51577

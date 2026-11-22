@@ -1,0 +1,5 @@
+variante,rho_spearman_avec_reference,top20_communs_avec_reference
+éloignement renforcé (50/25/25),0.975,18
+sans électricité (50/50/0),0.901,12
+capacité renforcée (25/50/25),0.976,18
+normalisation min-max (égale),0.96,11

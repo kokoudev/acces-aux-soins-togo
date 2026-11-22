@@ -1,0 +1,397 @@
+rang_priorite,canton_id,canton,commune,prefecture,region,population_2022,indice_priorite,dim_eloignement,dim_capacite,dim_electricite,part_hab_5km_geodata,part_loc_5km,dist_route_med_km,hab_par_centre,hab_par_personnel,pct_hab_reseau_bt,pop_5km_geodata,top20_nb_variantes,groupe,nom_groupe
+1,C03071220,Fazao,Sotouboua 2,Sotouboua,Centrale,2289.0,96.78,100.0,97.54,92.8,100.0,100.0,7.14,,,0.0,2289.0,5,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+2,E02103330,Tambigou,Kpendjal 1,Kpendjal,Savanes,9361.0,96.61,99.49,97.54,92.8,86.0,100.0,29.4,,,0.0,8050.46,5,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+3,E05108352,Kountoire,Oti-Sud 2,Oti-Sud,Savanes,13450.0,92.51,96.84,87.88,92.8,73.0,94.87,13.69,13450.0,2690.0,0.0,9818.5,5,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+4,B02036097,Kamina-Akébou,Akébou 2,Akébou,Plateaux,14632.0,92.0,93.94,89.27,92.8,35.0,54.55,5.68,14632.0,2926.4,0.0,5121.2,5,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+5,E01101322,Gouloungoussi,Cinkassé 1,Cinkassé,Savanes,3707.0,88.83,76.14,97.54,92.8,23.0,44.44,4.94,,,0.0,852.61,4,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+6,E02104333,Borgou,Kpendjal 2,Kpendjal,Savanes,40462.0,88.68,96.09,93.31,76.64,77.0,76.0,11.78,40462.0,3371.83,5.0,31155.74,5,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+7,C01067199,Welly,Blitta 3,Blitta,Centrale,10170.0,88.38,95.45,76.89,92.8,52.0,82.76,9.78,10170.0,1695.0,0.0,5288.4,3,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+8,B12063181,Ekéto,Wawa 2,Wawa,Plateaux,6804.67,87.79,93.43,77.15,92.8,50.0,84.62,10.64,6804.67,3402.33,0.0,3402.33,3,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+9,D04091281,Bapuré,Dankpen 3,Dankpen,Kara,25428.0,87.75,94.44,89.65,79.17,39.0,72.22,7.78,12714.0,4238.0,4.0,9916.92,5,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+10,D04091282,Nandouta,Dankpen 3,Dankpen,Kara,14114.0,87.67,97.22,72.98,92.8,60.0,77.78,8.49,7057.0,2016.29,0.0,8468.4,3,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+11,B04041117,Glitto,Anié 2,Anié,Plateaux,23415.0,87.12,97.98,78.91,84.47,63.0,82.98,12.52,23415.0,1300.83,1.0,14751.45,5,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+12,E07116386,Louanga,Tône 4,Tône,Savanes,11434.0,86.89,83.84,95.64,81.19,57.0,65.71,7.5,,5717.0,3.0,6517.38,5,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+13,B07050139,Akpakpakpé,Haho 3,Haho,Plateaux,12369.0,86.74,79.29,88.13,92.8,28.0,76.0,6.86,12369.0,3092.25,0.0,3463.32,3,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+14,D04091280,Nawaré,Dankpen 3,Dankpen,Kara,18253.0,85.48,98.74,81.06,76.64,71.0,89.47,13.2,18253.0,1521.08,5.0,12959.63,5,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+15,B02036096,Kpalavé,Akébou 2,Akébou,Plateaux,6989.0,85.1,88.51,73.99,92.8,34.0,77.78,6.07,6989.0,2329.67,0.0,2376.26,3,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+16,C01066195,Koffiti,Blitta 2,Blitta,Centrale,10294.0,84.3,76.52,83.59,92.8,37.0,52.0,5.11,10294.0,2573.5,0.0,3808.78,2,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+17,C04075232,Goubi,Tchamba 3,Tchamba,Centrale,10845.0,83.84,97.73,77.15,76.64,67.0,93.33,9.75,10845.0,1549.29,5.0,7266.15,3,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+18,C04074229,Bago,Tchamba 2,Tchamba,Centrale,36587.0,83.46,88.51,80.68,81.19,50.0,72.22,7.28,12195.67,1742.24,3.0,18293.5,3,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+19,B09054153,Kpélé-Govié,Kpélé 1,Kpélé,Plateaux,4629.0,82.68,77.53,97.54,72.98,32.0,69.23,6.75,,,6.0,1481.28,4,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+20,C02069212,Tindjasse,Mô 2,Mô,Centrale,14230.0,81.78,94.7,82.58,68.06,52.0,100.0,34.36,14230.0,1778.75,8.0,7399.6,3,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+21,A08029062,Gblainvié,Zio 1,Zio,Maritime,9225.0,81.4,83.08,84.47,76.64,29.0,72.73,7.89,9225.0,9225.0,5.0,2675.25,1,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+22,C01065192,Tchaloudè,Blitta 1,Blitta,Centrale,9752.0,81.31,92.93,78.03,72.98,38.0,51.35,9.05,9752.0,1950.4,6.0,3705.76,1,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+23,B07047133,Atchavé,Haho 1,Haho,Plateaux,25560.0,80.93,88.51,83.71,70.58,31.0,77.78,9.03,12780.0,1966.15,7.0,7923.6,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+24,E05107350,Mogou,Oti-Sud 1,Oti-Sud,Savanes,30442.0,80.3,82.07,90.78,68.06,59.0,39.13,3.24,30442.0,2536.83,8.0,17960.78,1,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+25,C04075233,Kaboli,Tchamba 3,Tchamba,Centrale,30575.0,80.22,99.24,81.57,59.85,46.0,88.89,12.73,15287.5,1609.21,10.0,14064.5,3,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+26,E06112364,Bagou,Tandjoaré 2,Tandjoaré,Savanes,2390.0,80.2,50.25,97.54,92.8,9.0,60.0,5.22,,,0.0,215.1,2,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+27,E07114381,Naki-Ouest,Tône 2,Tône,Savanes,24016.0,80.09,74.49,84.6,81.19,26.0,75.34,6.87,24016.0,1715.43,3.0,6244.16,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+28,E07115383,Tami,Tône 3,Tône,Savanes,20619.0,79.71,72.22,82.45,84.47,21.0,63.01,6.08,10309.5,2291.0,1.0,4329.99,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+29,C02068208,Kagnigbara,Mô 1,Mô,Centrale,5317.0,79.25,98.23,46.72,92.8,35.0,100.0,17.66,5317.0,886.17,0.0,1860.95,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+30,D06095302,Ossacré,Kéran 2,Kéran,Kara,19842.0,79.12,73.11,71.46,92.8,9.0,75.0,7.99,9921.0,1322.8,0.0,1785.78,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+30,B12063180,Gbadi-N'kougna,Wawa 2,Wawa,Plateaux,12928.87,79.12,70.33,74.24,92.8,10.0,77.27,8.12,6464.43,2585.77,0.0,1292.89,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+32,C01066196,Langabou,Blitta 2,Blitta,Centrale,16790.0,79.04,93.69,72.85,70.58,33.0,70.83,8.94,8395.0,1679.0,7.0,5540.7,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+33,E02103331,Koundjoaré,Kpendjal 1,Kpendjal,Savanes,17926.0,78.91,79.55,84.22,72.98,27.0,100.0,16.4,17926.0,1792.6,6.0,4840.02,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+34,B06045127,Badin-Copé,Est-Mono 2,Est-Mono,Plateaux,26879.0,78.79,89.9,78.41,68.06,36.0,66.67,6.85,8959.67,2239.92,8.0,9676.44,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+35,E04110345,Nagbéni,Oti 2,Oti,Savanes,19607.0,78.54,83.08,73.36,79.17,36.0,72.73,8.08,9803.5,1508.23,4.0,7058.52,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+36,E05107349,Tchamonga,Oti-Sud 1,Oti-Sud,Savanes,13866.0,77.86,98.48,42.3,92.8,48.0,89.66,10.76,4622.0,866.62,0.0,6655.68,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+37,D04090278,Natchitikpi,Dankpen 2,Dankpen,Kara,7844.0,77.4,80.81,74.75,76.64,42.0,55.56,7.92,7844.0,1961.0,5.0,3294.48,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+38,D06095301,Hélota,Kéran 2,Kéran,Kara,16034.0,77.15,87.25,71.21,72.98,32.0,87.5,9.46,8017.0,,6.0,5130.88,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+39,B01033076,Agou-Nyogbo-Agbétiko,Agou 1,Agou,Plateaux,7174.33,77.08,88.51,97.54,45.2,45.0,55.56,6.24,,,16.0,3228.45,2,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+40,D06095303,Ataloté,Kéran 2,Kéran,Kara,17429.0,77.02,96.09,84.97,50.0,54.0,80.0,9.54,17429.0,1936.56,14.0,9411.66,1,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+41,E05108354,Nali,Oti-Sud 2,Oti-Sud,Savanes,11284.0,76.94,97.47,83.33,50.0,50.0,78.57,10.35,11284.0,2256.8,14.0,5642.0,1,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+42,D04090277,Natchiboré,Dankpen 2,Dankpen,Kara,11741.0,76.81,78.54,81.31,70.58,47.0,73.68,9.67,11741.0,1956.83,7.0,5518.27,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+43,E06111359,Goundoga,Tandjoaré 1,Tandjoaré,Savanes,6348.0,76.75,56.06,97.54,76.64,14.0,86.21,6.19,,,5.0,888.72,1,2,Cantons sous-équipés et loin du réseau électrique
+44,D04089272,Naompoch,Dankpen 1,Dankpen,Kara,9256.0,76.52,80.81,75.76,72.98,37.0,52.38,5.86,9256.0,,6.0,3424.72,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+45,D04091283,Kidjabou,Dankpen 3,Dankpen,Kara,18857.0,76.43,91.41,56.69,81.19,53.0,78.05,9.31,6285.67,1109.24,3.0,9994.21,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+46,C01065187,Pagala-Gare,Blitta 1,Blitta,Centrale,23112.0,76.39,73.11,88.01,68.06,16.0,37.5,4.21,11556.0,4622.4,8.0,3697.92,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+46,B11058168,Houdou,Ogou 1,Ogou,Plateaux,10194.0,76.39,62.25,74.12,92.8,22.0,65.38,6.7,10194.0,1456.29,0.0,2242.68,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+48,E05107351,Gando,Oti-Sud 1,Oti-Sud,Savanes,41374.0,76.3,92.17,81.82,54.92,28.0,68.75,7.6,20687.0,1532.37,12.0,11584.72,1,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+49,B06044125,Gbadjahè,Est-Mono 1,Est-Mono,Plateaux,9636.0,76.05,92.17,56.82,79.17,11.0,70.0,11.77,4818.0,1376.57,4.0,1059.96,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+50,B02035094,Yalla,Akébou 1,Akébou,Plateaux,5530.0,75.97,64.02,71.09,92.8,7.0,58.33,5.19,5530.0,2765.0,0.0,387.1,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+51,E06112367,Tampialime,Tandjoaré 2,Tandjoaré,Savanes,14347.0,75.8,53.66,80.93,92.8,9.0,36.36,2.69,14347.0,1594.11,0.0,1291.23,0,2,Cantons sous-équipés et loin du réseau électrique
+52,B04041115,Adogbénou,Anié 2,Anié,Plateaux,37998.0,75.72,82.58,71.59,72.98,29.0,76.12,8.19,9499.5,1357.07,6.0,11019.42,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+53,E04110347,Galangashie,Oti 2,Oti,Savanes,14810.0,75.55,85.73,88.01,52.9,28.0,66.67,7.15,14810.0,2468.33,13.0,4146.8,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+54,D04090279,Koutchitchéou,Dankpen 2,Dankpen,Kara,3742.0,75.51,85.73,47.98,92.8,19.0,80.0,13.89,3742.0,1247.33,0.0,710.98,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+55,B07050138,Wahala,Haho 4,Haho,Plateaux,36703.0,75.17,91.04,77.4,57.07,37.0,80.77,8.15,12234.33,1468.12,11.0,13580.11,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+56,E04110346,Tchanaga,Oti 2,Oti,Savanes,8973.0,75.13,95.2,75.25,54.92,49.0,83.33,7.69,8973.0,1794.6,12.0,4396.77,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+57,E03105335,Nayéga,Kpendjal-Ouest 1,Kpendjal-Ouest,Savanes,19235.0,74.66,55.05,92.3,76.64,14.0,60.0,5.39,19235.0,3847.0,5.0,2692.9,0,2,Cantons sous-équipés et loin du réseau électrique
+58,E07114380,Namaré,Tône 2,Tône,Savanes,12103.0,74.03,45.83,83.46,92.8,6.0,55.88,5.46,12103.0,2017.17,0.0,726.18,0,2,Cantons sous-équipés et loin du réseau électrique
+59,B07049136,Kpédomé,Haho 3,Haho,Plateaux,46326.0,73.57,91.04,76.77,52.9,29.0,76.92,9.42,7721.0,2316.3,13.0,13434.54,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+60,B06045126,Morétan,Est-Mono 2,Est-Mono,Plateaux,49295.0,73.44,90.15,73.11,57.07,42.0,82.0,8.94,12323.75,1232.38,11.0,20703.9,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+61,B09054156,Kpélé-Dawlotou,Kpélé 1,Kpélé,Plateaux,11004.0,73.27,67.05,68.31,84.47,26.0,37.5,4.89,5502.0,2200.8,1.0,2861.04,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+62,D06096305,Warengo,Kéran 3,Kéran,Kara,6315.0,72.81,73.11,60.86,84.47,23.0,87.5,10.45,6315.0,1263.0,1.0,1452.45,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+63,B11059171,Katoré,Ogou 2,Ogou,Plateaux,13635.0,72.73,84.85,65.28,68.06,28.0,75.86,10.99,4545.0,2727.0,8.0,3817.8,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+64,E03105334,Naki-Est,Kpendjal-Ouest 1,Kpendjal-Ouest,Savanes,24761.0,72.6,89.39,68.56,59.85,28.0,82.76,8.02,24761.0,884.32,10.0,6933.08,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+65,C05076235,Kadambara,Tchaoudjo 1,Tchaoudjo,Centrale,23526.0,72.47,69.19,84.47,63.76,20.0,52.63,5.81,11763.0,2352.6,9.0,4705.2,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+66,E05108353,Koumongou,Oti-Sud 2,Oti-Sud,Savanes,7167.0,72.43,98.99,54.55,63.76,25.0,80.0,9.72,7167.0,895.88,9.0,1791.75,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+67,C01067207,M'Poti,Blitta 3,Blitta,Centrale,6971.0,72.33,99.75,97.54,19.7,58.0,90.91,8.97,,,32.0,4043.18,2,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+68,B07047134,Hahomégbé,Haho 1,Haho,Plateaux,19014.0,72.14,77.78,54.17,84.47,26.0,62.07,7.13,6338.0,950.7,1.0,4943.64,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+69,E07113377,Pana,Tône 1,Tône,Savanes,13279.0,71.93,76.77,57.83,81.19,28.0,60.87,6.44,6639.5,1106.58,3.0,3718.12,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+70,B06045128,Kamina,Est-Mono 2,Est-Mono,Plateaux,25692.0,71.68,88.51,90.4,36.11,35.0,44.44,2.19,12846.0,5138.4,20.0,8992.2,1,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+71,D02083253,Baghan,Bassar 1,Bassar,Kara,11814.0,71.59,86.74,84.97,43.06,62.0,57.14,8.11,11814.0,2362.8,17.0,7324.68,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+72,B11061175,Ountivou,Ogou 4,Ogou,Plateaux,29048.0,71.36,73.99,72.03,68.06,20.0,60.0,5.97,7262.0,1815.5,8.0,5809.6,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+73,E01101323,Noaga,Cinkassé 1,Cinkassé,Savanes,1656.0,70.94,22.47,97.54,92.8,0.0,71.43,5.4,,,0.0,0.0,1,2,Cantons sous-équipés et loin du réseau électrique
+74,B09055161,Kpélé-Centre,Kpélé 2,Kpélé,Plateaux,7262.0,70.01,92.17,49.81,68.06,28.0,50.0,6.51,7262.0,726.2,8.0,2033.36,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+75,B12064186,Doumé,Wawa 3,Wawa,Plateaux,4642.0,69.99,58.84,58.33,92.8,3.0,62.5,5.65,4642.0,1547.33,0.0,139.26,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+76,E05107348,Sagbiebou,Oti-Sud 1,Oti-Sud,Savanes,20370.0,69.95,86.11,68.81,54.92,19.0,75.0,6.59,10185.0,1198.24,12.0,3870.3,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+77,E03106339,Namoundjoga,Kpendjal-Ouest 2,Kpendjal-Ouest,Savanes,17896.0,69.91,66.67,63.89,79.17,25.0,51.85,5.45,8948.0,1118.5,4.0,4474.0,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+78,D04089273,Katchamba,Dankpen 1,Dankpen,Kara,9121.0,69.57,73.11,71.84,63.76,52.0,75.0,6.32,9121.0,1520.17,9.0,4742.92,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+79,C01066197,Agbandi,Blitta 2,Blitta,Centrale,12122.0,69.49,90.66,62.88,54.92,46.0,57.14,6.55,12122.0,865.86,12.0,5576.12,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+79,C04074230,Koussountou,Tchamba 2,Tchamba,Centrale,28343.0,69.49,96.09,57.45,54.92,42.0,70.0,6.75,9447.67,833.62,12.0,11904.06,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+81,E07114379,Nanergou,Tône 2,Tône,Savanes,14060.0,69.15,45.83,84.97,76.64,6.0,35.29,4.24,14060.0,2008.57,5.0,843.6,0,2,Cantons sous-équipés et loin du réseau électrique
+82,B10056164,Ahassomè,Moyen-Mono 1,Moyen-Mono,Plateaux,9928.0,68.69,62.25,75.76,68.06,6.0,76.92,13.03,9928.0,1654.67,8.0,595.68,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+83,E07115385,Warkambou,Tône 3,Tône,Savanes,7234.0,68.64,56.06,66.92,82.95,16.0,37.93,4.33,7234.0,1446.8,2.0,1157.44,0,2,Cantons sous-équipés et loin du réseau électrique
+84,B07047132,Dalia,Haho 1,Haho,Plateaux,16372.0,68.35,79.04,53.03,72.98,23.0,50.0,5.06,5457.33,1091.47,6.0,3765.56,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+85,D02084258,Bangeli,Bassar 2,Bassar,Kara,15571.0,68.14,96.84,34.6,72.98,52.0,64.1,12.54,5190.33,576.7,6.0,8096.92,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+86,D06094299,Pessidè,Kéran 1,Kéran,Kara,9256.0,68.06,75.0,44.7,84.47,33.0,73.68,6.4,4628.0,925.6,1.0,3054.48,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+87,D04090276,Namon,Dankpen 2,Dankpen,Kara,9389.0,67.89,84.34,80.56,38.76,19.0,87.5,23.91,9389.0,2347.25,19.0,1783.91,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+88,E04110344,Barkoissi,Oti 2,Oti,Savanes,21060.0,67.72,94.95,77.02,31.19,16.0,80.65,7.11,21060.0,1238.82,23.0,3369.6,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+88,E07116387,Kantindi,Tône 4,Tône,Savanes,14016.0,67.72,45.45,84.72,72.98,7.0,52.5,6.08,14016.0,2002.29,6.0,981.12,0,2,Cantons sous-équipés et loin du réseau électrique
+90,E06111357,Pligou,Tandjoaré 1,Tandjoaré,Savanes,7042.0,67.55,56.82,53.03,92.8,6.0,86.49,7.24,7042.0,880.25,0.0,422.52,0,2,Cantons sous-équipés et loin du réseau électrique
+91,B09055158,Kpélé-Dutoé,Kpélé 2,Kpélé,Plateaux,3573.0,67.4,65.91,97.54,38.76,24.0,81.82,7.04,,,19.0,857.52,1,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+92,B02035091,Veh,Akébou 1,Akébou,Plateaux,5315.0,67.21,50.76,58.08,92.8,14.0,71.43,8.42,5315.0,1328.75,0.0,744.1,0,2,Cantons sous-équipés et loin du réseau électrique
+93,B02048134,Djemegni,Haho 2,Haho,Plateaux,31513.0,67.0,69.7,81.31,50.0,20.0,58.33,6.1,15756.5,1575.65,14.0,6302.6,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+94,D05092289,Pouda,Doufelgou 1,Doufelgou,Kara,3137.0,66.96,77.15,30.93,92.8,3.0,71.43,7.84,3137.0,784.25,0.0,94.11,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+95,D05092290,Massédéna,Doufelgou 1,Doufelgou,Kara,3747.0,66.79,80.81,26.77,92.8,26.0,50.0,5.03,1873.5,936.75,0.0,974.22,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+96,E04110348,Loko,Oti 2,Oti,Savanes,5919.0,66.5,70.33,36.36,92.8,8.0,72.73,6.69,2959.5,986.5,0.0,473.52,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+97,B10057165,Katomé,Moyen-Mono 2,Moyen-Mono,Plateaux,8105.0,65.95,22.47,82.58,92.8,0.0,44.44,3.93,8105.0,8105.0,0.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+98,B03038101,Kpatégan,Amou 2,Amou,Plateaux,10075.0,65.87,75.63,45.33,76.64,28.0,46.15,4.46,2518.75,1679.17,5.0,2821.0,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+99,A02007010,Ando,Avé 1,Avé,Maritime,32198.49,65.74,46.72,86.74,63.76,5.0,62.9,5.32,10732.83,3577.61,9.0,1609.92,0,2,Cantons sous-équipés et loin du réseau électrique
+100,D07099319,Kpinzindè,Kozah 3,Kozah,Kara,11608.0,65.7,64.02,51.89,81.19,10.0,66.67,5.75,5804.0,967.33,3.0,1160.8,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+101,D04089274,Guérin-Kouka,Dankpen 1,Dankpen,Kara,48399.0,65.66,71.46,61.74,63.76,10.0,88.0,8.89,24199.5,681.68,9.0,4839.9,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+102,C04075231,Balanka,Tchamba 3,Tchamba,Centrale,11784.0,65.36,92.17,74.49,29.42,13.0,50.0,5.22,11784.0,1309.33,24.0,1531.92,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+103,B02036095,Sérégbénè,Akébou 2,Akébou,Plateaux,8013.0,65.36,57.32,45.96,92.8,3.0,61.11,5.23,4006.5,1144.71,0.0,240.39,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+104,B11060174,Gléi,Ogou 3,Ogou,Plateaux,51836.0,65.03,71.72,59.6,63.76,18.0,49.62,4.92,5183.6,1524.59,9.0,9330.48,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+105,D02083255,Kalanga,Bassar 1,Bassar,Kara,7399.0,64.69,89.65,68.31,36.11,51.0,77.27,8.03,7399.0,1479.8,20.0,3773.49,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+106,D05093294,Kadjalla,Doufelgou 3,Doufelgou,Kara,9835.0,64.65,57.32,43.81,92.8,7.0,77.78,11.94,3278.33,1229.38,0.0,688.45,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+106,D05093292,Léon,Doufelgou 3,Doufelgou,Kara,4206.0,64.65,64.02,45.45,84.47,20.0,66.67,7.54,4206.0,1051.5,1.0,841.2,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+108,B12062176,Kpété-Béna,Wawa 1,Wawa,Plateaux,11769.0,64.56,76.14,70.58,46.97,51.0,77.78,12.83,11769.0,1176.9,15.0,6002.19,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+109,C03070213,Tabindè,Sotouboua 1,Sotouboua,Centrale,7574.0,64.39,78.03,65.15,50.0,44.0,68.75,6.49,7574.0,1262.33,14.0,3332.56,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+110,D05093296,Anima,Doufelgou 2,Doufelgou,Kara,1092.0,64.33,22.47,97.54,72.98,8.0,50.0,4.09,,,6.0,87.36,1,2,Cantons sous-équipés et loin du réseau électrique
+111,D06096304,Nadoba,Kéran 3,Kéran,Kara,19878.0,64.23,49.49,79.42,63.76,17.0,18.75,3.23,9939.0,1987.8,9.0,3379.26,0,2,Cantons sous-équipés et loin du réseau électrique
+112,B10056163,Tado,Moyen-Mono 1,Moyen-Mono,Plateaux,18476.0,64.14,56.06,83.46,52.9,13.0,37.93,4.08,9238.0,3695.2,13.0,2401.88,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+113,E07113375,Toaga,Tône 1,Tône,Savanes,13494.0,64.1,22.47,88.64,81.19,3.0,2.94,3.44,13494.0,,3.0,404.82,0,2,Cantons sous-équipés et loin du réseau électrique
+114,B01034088,Agotimé-Sud (Adzakpa),Agou 2,Agou,Plateaux,7436.0,64.06,68.69,30.68,92.8,12.0,44.83,4.93,2478.67,929.5,0.0,892.32,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+115,B10057166,Kpékplémé,Moyen-Mono 2,Moyen-Mono,Plateaux,22135.0,64.02,64.02,91.92,36.11,6.0,66.67,5.16,22135.0,3162.14,20.0,1328.1,0,2,Cantons sous-équipés et loin du réseau électrique
+116,A08031073,Agbélouvé,Zio 3,Zio,Maritime,50219.0,63.85,74.24,60.23,57.07,23.0,62.35,6.52,6277.38,1255.47,11.0,11550.37,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+117,B03039105,Gamé,Amou 3,Amou,Plateaux,7377.0,63.59,64.02,33.96,92.8,25.0,43.33,3.8,2459.0,1053.86,0.0,1844.25,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+118,B04040114,Kolo-Kopé,Anié 1,Anié,Plateaux,14918.0,63.22,69.7,72.98,46.97,15.0,66.67,6.09,7459.0,1864.75,15.0,2237.7,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+119,B07048135,Asrama,Haho 2,Haho,Plateaux,50994.0,63.13,55.05,81.44,52.9,14.0,60.0,5.56,10198.8,2124.75,13.0,7139.16,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+119,B04040112,Pallakoko,Anié 1,Anié,Plateaux,7372.0,63.13,93.18,39.14,57.07,40.0,82.35,7.45,3686.0,921.5,11.0,2948.8,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+121,C03072223,Tchébébé,Sotouboua 3,Sotouboua,Centrale,16205.0,62.54,51.26,55.18,81.19,3.0,23.08,2.71,8102.5,852.89,3.0,486.15,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+122,A08031079,Gamé-Sèva,Zio 3,Zio,Maritime,17624.0,62.5,71.97,47.47,68.06,11.0,54.05,5.2,4406.0,1101.5,8.0,1938.64,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+123,B02035090,Djon,Akébou 1,Akébou,Plateaux,13562.0,61.99,65.28,70.71,50.0,18.0,65.52,6.87,6781.0,1937.43,14.0,2441.16,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+124,E06108355,Takpamba,Oti-Sud 2,Oti-Sud,Savanes,12423.0,61.91,84.34,73.86,27.53,31.0,50.0,5.06,12423.0,1242.3,25.0,3851.13,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+125,E01102328,Timbou,Cinkassé 2,Cinkassé,Savanes,21709.0,61.78,46.97,85.48,52.9,1.0,66.67,5.55,21709.0,1809.08,13.0,217.09,0,2,Cantons sous-équipés et loin du réseau électrique
+126,B07050137,Kpegnon (Haito),Haho 4,Haho,Plateaux,7262.0,61.57,73.11,18.81,92.8,18.0,64.29,6.03,2420.67,605.17,0.0,1307.16,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+127,C01067205,Dikpéléou,Blitta 3,Blitta,Centrale,2086.0,61.55,80.81,97.54,6.31,28.0,100.0,7.24,,,46.0,584.08,1,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+128,B06046129,Kpéssi,Est-Mono 3,Est-Mono,Plateaux,11910.0,61.45,22.47,85.23,76.64,30.0,42.86,4.83,11910.0,2382.0,5.0,3573.0,0,2,Cantons sous-équipés et loin du réseau électrique
+129,C02068210,Djarkpanga,Mô 1,Mô,Centrale,19374.0,61.28,96.09,61.36,26.39,35.0,100.0,19.95,19374.0,691.93,26.0,6780.9,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+129,D06096306,Koutougou,Kéran 3,Kéran,Kara,4790.0,61.28,55.05,35.98,92.8,7.0,70.0,7.13,2395.0,1197.5,0.0,335.3,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+131,C03071216,Séssaro,Sotouboua 2,Sotouboua,Centrale,12226.0,61.03,52.27,51.64,79.17,14.0,45.83,4.97,6113.0,940.46,4.0,1711.64,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+132,C02069211,Saïboudè,Mô 2,Mô,Centrale,7696.0,60.94,85.1,70.2,27.53,37.0,100.0,36.18,7696.0,1539.2,25.0,2847.52,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+133,D05093297,Kpaha,Doufelgou 2,Doufelgou,Kara,3692.0,60.86,80.81,46.84,54.92,22.0,66.67,8.31,3692.0,1230.67,12.0,812.24,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+134,E06111363,Tamongue,Tandjoaré 1,Tandjoaré,Savanes,21405.0,60.77,59.85,58.71,63.76,13.0,76.36,6.1,7135.0,1070.25,9.0,2782.65,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+135,C03071218,Aouda,Sotouboua 2,Sotouboua,Centrale,17291.0,60.61,66.41,34.22,81.19,19.0,50.0,5.01,4322.75,665.04,3.0,3285.29,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+136,E01102329,Sam-Naba,Cinkassé 2,Cinkassé,Savanes,9361.0,60.56,22.47,66.41,92.8,0.0,9.52,2.13,9361.0,1170.12,0.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+137,B03039106,Otadi,Amou 3,Amou,Plateaux,5421.0,60.52,52.27,36.49,92.8,25.0,41.67,4.8,1807.0,1355.25,0.0,1355.25,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+138,C01065193,Doufouli,Blitta 1,Blitta,Centrale,2605.0,60.06,83.08,29.04,68.06,35.0,63.64,8.82,2605.0,868.33,8.0,911.75,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+139,E07113372,Poissongui,Tône 1,Tône,Savanes,6155.0,59.85,22.47,64.27,92.8,0.0,56.1,5.64,6155.0,1538.75,0.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+139,E01102326,Biankouri,Cinkassé 2,Cinkassé,Savanes,11757.0,59.85,22.47,84.09,72.98,0.0,53.33,5.09,11757.0,,6.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+141,E03105336,Ogaro,Kpendjal-Ouest 1,Kpendjal-Ouest,Savanes,12463.0,59.64,75.63,35.23,68.06,13.0,50.0,5.14,6231.5,429.76,8.0,1620.19,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+142,D02086262,Sanda-Kagbanda,Bassar 4,Bassar,Kara,10642.0,59.6,62.25,75.76,40.78,9.0,30.77,2.56,10642.0,1520.29,18.0,957.78,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+143,C03072221,Kazaboua,Sotouboua 3,Sotouboua,Centrale,9347.0,59.26,60.48,40.66,76.64,21.0,42.86,3.17,4673.5,778.92,5.0,1962.87,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+144,D02084256,Dimori,Bassar 2,Bassar,Kara,13763.0,59.09,86.36,27.15,63.76,21.0,88.37,12.62,3440.75,625.59,9.0,2890.23,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+145,D02086261,Sanda-Afohou,Bassar 4,Bassar,Kara,6015.0,59.01,80.81,39.14,57.07,13.0,66.67,5.71,6015.0,601.5,11.0,781.95,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+146,E06112368,Mamproug,Tandjoaré 2,Tandjoaré,Savanes,6331.0,58.88,22.47,61.36,92.8,1.0,88.24,11.28,6331.0,1266.2,0.0,63.31,0,2,Cantons sous-équipés et loin du réseau électrique
+147,A08029066,Dalavé,Zio 1,Zio,Maritime,24596.0,58.71,47.73,57.83,70.58,1.0,11.11,1.1,4099.33,1892.0,7.0,245.96,0,2,Cantons sous-équipés et loin du réseau électrique
+148,B03039108,Okpahoé,Amou 3,Amou,Plateaux,1247.0,58.63,51.26,31.82,92.8,15.0,76.92,7.18,1247.0,1247.0,0.0,187.05,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+149,B04041116,Atchinédji,Anié 2,Anié,Plateaux,18000.0,58.46,61.49,21.09,92.8,20.0,50.0,4.89,2000.0,720.0,0.0,3600.0,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+150,D07100320,Djamdè,Kozah 4,Kozah,Kara,3778.0,58.0,70.96,30.05,72.98,36.0,33.33,1.59,3778.0,629.67,6.0,1360.08,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+151,E06112371,Lokpano,Tandjoaré 2,Tandjoaré,Savanes,6025.0,57.49,22.47,57.2,92.8,4.0,77.27,8.14,6025.0,1205.0,0.0,241.0,0,2,Cantons sous-équipés et loin du réseau électrique
+152,B11059173,Akparé,Ogou 2,Ogou,Plateaux,27467.0,57.41,67.68,77.02,27.53,5.0,41.3,4.63,9155.67,1961.93,25.0,1373.35,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+152,D02084257,Bitchabe,Bassar 2,Bassar,Kara,7142.0,57.41,82.32,65.4,24.49,16.0,60.0,5.88,7142.0,,28.0,1142.72,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+154,D04089275,Koulféikou,Dankpen 1,Dankpen,Kara,9518.0,57.2,22.47,56.31,92.8,14.0,28.57,2.73,4759.0,1359.71,0.0,1332.52,0,2,Cantons sous-équipés et loin du réseau électrique
+155,A08030068,Mission-Tové,Zio 2,Zio,Maritime,56794.0,57.03,22.47,91.54,57.07,0.0,0.0,2.41,18931.33,3340.82,11.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+156,E07116389,Korbongou,Tône 4,Tône,Savanes,25609.0,56.94,53.03,54.04,63.76,5.0,51.47,5.11,6402.25,948.48,9.0,1280.45,0,2,Cantons sous-équipés et loin du réseau électrique
+157,D02085259,Manga,Bassar 3,Bassar,Kara,7269.0,56.82,78.54,44.95,46.97,30.0,63.16,5.94,7269.0,605.75,15.0,2180.7,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+158,E07115384,Lotogou,Tône 3,Tône,Savanes,14432.0,56.52,22.47,74.12,72.98,0.0,35.85,4.24,7216.0,2061.71,6.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+159,E07113373,Kourientre,Tône 1,Tône,Savanes,12224.0,56.4,22.47,53.91,92.8,0.0,29.17,3.72,6112.0,1018.67,0.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+160,E03106337,Papri,Kpendjal-Ouest 2,Kpendjal-Ouest,Savanes,14818.0,56.14,22.47,77.9,68.06,0.0,29.17,2.57,14818.0,1347.09,8.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+161,B03039111,Avédjè,Amou 3,Amou,Plateaux,3116.0,56.14,71.21,14.27,82.95,19.0,29.41,2.75,1558.0,623.2,2.0,592.04,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+162,B11059172,Datcha,Ogou 2,Ogou,Plateaux,15180.0,56.02,57.83,79.04,31.19,11.0,33.9,2.58,7590.0,3036.0,23.0,1669.8,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+162,B08051141,Yokélé,Kloto 2,Kloto,Plateaux,3248.0,56.02,92.17,28.91,46.97,15.0,75.0,7.2,1624.0,1082.67,15.0,487.2,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+164,C05077239,Lama-Tessi,Tchaoudjo 2,Tchaoudjo,Centrale,24891.0,55.93,74.75,33.21,59.85,10.0,52.17,5.18,4148.5,672.73,10.0,2489.1,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+164,B03038102,Ekpégnon,Amou 2,Amou,Plateaux,6098.0,55.93,61.49,53.41,52.9,10.0,60.0,5.83,3049.0,2032.67,13.0,609.8,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+166,B06044124,Elavagnon,Est-Mono 1,Est-Mono,Plateaux,25016.0,55.89,83.59,37.12,46.97,18.0,51.85,5.53,4169.33,781.75,15.0,4502.88,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+167,E01102327,Nadjoundi,Cinkassé 2,Cinkassé,Savanes,10140.0,55.18,22.47,79.29,63.76,0.0,21.21,4.15,10140.0,,9.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+168,C05078243,Amaïde,Tchaoudjo 3,Tchaoudjo,Centrale,4338.0,55.09,60.48,61.74,43.06,19.0,57.14,5.27,4338.0,2169.0,17.0,824.22,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+169,C04073225,Alibi I,Tchamba 1,Tchamba,Centrale,10324.0,54.97,65.91,39.14,59.85,20.0,45.45,4.37,5162.0,688.27,10.0,2064.8,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+170,E06111362,Boulogou,Tandjoaré 1,Tandjoaré,Savanes,6101.0,54.71,22.47,48.86,92.8,3.0,37.93,3.84,6101.0,871.57,0.0,183.03,0,2,Cantons sous-équipés et loin du réseau électrique
+170,A08032075,Gapé-Kpodji,Zio 4,Zio,Maritime,8489.0,54.71,22.47,48.86,92.8,0.0,8.33,2.06,4244.5,1212.71,0.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+172,A07028057,Sendome,Yoto 3,Yoto,Maritime,9955.0,54.67,22.47,84.47,57.07,5.0,25.0,2.09,9955.0,3318.33,11.0,497.75,0,2,Cantons sous-équipés et loin du réseau électrique
+172,C04073228,Tchamba,Tchamba 1,Tchamba,Centrale,48392.0,54.67,90.4,51.52,22.1,18.0,70.59,7.36,16130.67,424.49,30.0,8710.56,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+174,E02103332,Mandouri,Kpendjal 1,Kpendjal,Savanes,20616.0,54.63,85.35,49.12,29.42,12.0,100.0,39.17,10308.0,542.53,24.0,2473.92,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+175,C01067203,Diguengué,Blitta 3,Blitta,Centrale,1523.0,54.42,51.26,19.19,92.8,5.0,15.38,3.43,1523.0,761.5,0.0,76.15,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+176,E03106338,Tambonga,Kpendjal-Ouest 2,Kpendjal-Ouest,Savanes,18709.0,54.29,22.47,63.76,76.64,0.0,65.0,5.65,9354.5,1039.39,5.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+177,A08030069,Kovié,Zio 2,Zio,Maritime,20834.0,53.96,48.23,63.64,50.0,2.0,16.67,2.69,6944.67,1302.12,14.0,416.68,0,2,Cantons sous-équipés et loin du réseau électrique
+178,D06094300,Akpontè,Kéran 1,Kéran,Kara,8877.0,53.62,22.47,45.58,92.8,15.0,100.0,9.66,4438.5,986.33,0.0,1331.55,0,2,Cantons sous-équipés et loin du réseau électrique
+179,D02085260,Kabou,Bassar 3,Bassar,Kara,26604.0,53.54,87.63,39.27,33.71,17.0,60.0,6.1,6651.0,532.08,21.0,4522.68,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+180,B06046130,Nyamassila,Est-Mono 3,Est-Mono,Plateaux,16032.0,53.41,22.47,58.59,79.17,5.0,33.33,4.69,8016.0,943.06,4.0,801.6,0,2,Cantons sous-équipés et loin du réseau électrique
+181,D07100321,Atchangbadè,Kozah 4,Kozah,Kara,16876.0,53.03,58.84,36.49,63.76,3.0,50.0,5.08,5625.33,562.53,9.0,506.28,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+182,D05093295,Tchoré,Doufelgou 3,Doufelgou,Kara,3982.0,52.74,22.47,42.93,92.8,3.0,33.33,1.51,3982.0,995.5,0.0,119.46,0,2,Cantons sous-équipés et loin du réseau électrique
+183,A03009015,Kpétsou,Bas-Mono 1,Bas-Mono,Maritime,12721.0,52.69,22.47,51.14,84.47,0.0,0.0,1.58,4240.33,1272.1,1.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+184,A07027054,Zafi,Yoto 2,Yoto,Maritime,10683.0,52.4,64.02,54.42,38.76,12.0,16.67,1.02,5341.5,1187.0,19.0,1281.96,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+185,B02035093,Gbendè,Akébou 1,Akébou,Plateaux,6071.0,52.27,22.47,41.54,92.8,4.0,63.64,5.4,3035.5,1214.2,0.0,242.84,0,2,Cantons sous-équipés et loin du réseau électrique
+186,E03106340,Pogno,Kpendjal-Ouest 2,Kpendjal-Ouest,Savanes,15448.0,52.23,45.2,30.3,81.19,1.0,44.68,3.97,3089.6,772.4,3.0,154.48,0,2,Cantons sous-équipés et loin du réseau électrique
+187,B01033077,Agou-Akplolo,Agou 1,Agou,Plateaux,2609.0,52.1,22.47,41.04,92.8,0.0,66.67,5.83,2609.0,1304.5,0.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+188,E06112366,Sissiak,Tandjoaré 2,Tandjoaré,Savanes,8343.0,51.35,44.95,16.29,92.8,1.0,49.06,4.79,2085.75,595.93,0.0,83.43,0,0,Cantons ruraux proches et dotés
+189,B03037099,Imlè-Adiva,Amou 1,Amou,Plateaux,4806.0,50.93,58.84,43.94,50.0,13.0,41.67,4.56,1201.5,2403.0,14.0,624.78,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+190,E07113378,Bidjenga,Tône 1,Tône,Savanes,10646.0,50.8,22.47,46.97,82.95,0.0,21.62,2.35,5323.0,887.17,2.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+191,E06112365,Nano,Tandjoaré 2,Tandjoaré,Savanes,17093.0,50.59,22.47,69.44,59.85,3.0,50.0,5.02,17093.0,949.61,10.0,512.79,0,2,Cantons sous-équipés et loin du réseau électrique
+191,A05021037,Ganavé,Lacs 4,Lacs,Maritime,11062.0,50.59,22.47,61.24,68.06,0.0,0.0,1.68,3687.33,2765.5,8.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+193,C01065191,Yaloumbè,Blitta 1,Blitta,Centrale,6253.0,50.04,52.27,50.88,46.97,6.0,45.83,4.52,6253.0,893.29,15.0,375.18,0,0,Cantons ruraux proches et dotés
+194,C01065188,Waragni,Blitta 1,Blitta,Centrale,4956.0,50.0,46.34,60.61,43.06,10.0,21.88,1.43,4956.0,1652.0,17.0,495.6,0,2,Cantons sous-équipés et loin du réseau électrique
+195,C01067206,Katchenkè,Blitta 3,Blitta,Centrale,3255.0,49.92,80.81,32.83,36.11,37.0,66.67,6.26,3255.0,813.75,20.0,1204.35,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+196,E07113376,Natigou,Tône 1,Tône,Savanes,11234.0,49.71,22.47,50.0,76.64,1.0,5.88,2.6,5617.0,936.17,5.0,112.34,0,2,Cantons sous-équipés et loin du réseau électrique
+197,C01065189,Blitta-Village,Blitta 1,Blitta,Centrale,10794.0,49.54,49.24,79.67,19.7,1.0,27.27,2.99,10794.0,1799.0,32.0,107.94,0,2,Cantons sous-équipés et loin du réseau électrique
+198,E07116388,Sanfatoute,Tône 4,Tône,Savanes,15518.0,49.41,22.47,61.99,63.76,0.0,15.15,2.38,7759.0,1108.43,9.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+199,E01101324,Boadé,Cinkassé 1,Cinkassé,Savanes,7403.0,48.74,22.47,50.76,72.98,1.0,50.0,4.78,7403.0,740.3,6.0,74.03,0,2,Cantons sous-équipés et loin du réseau électrique
+200,B09055160,Kpélé-Gbalédzé,Kpélé 2,Kpélé,Plateaux,3325.0,48.51,22.47,97.54,25.51,6.0,14.29,1.92,,,27.0,199.5,0,2,Cantons sous-équipés et loin du réseau électrique
+201,A08032074,Gapé-Centre,Zio 4,Zio,Maritime,20215.0,48.36,49.75,27.27,68.06,7.0,51.32,5.07,2246.11,878.91,8.0,1415.05,0,0,Cantons ruraux proches et dotés
+201,A06024044,Mome-Hounkpati,Vo 3,Vo,Maritime,16758.0,48.36,22.47,91.41,31.19,0.0,16.67,1.02,16758.0,,23.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+203,C01067198,Tintchro,Blitta 3,Blitta,Centrale,4041.0,48.06,80.81,43.69,19.7,59.0,83.33,9.24,4041.0,1010.25,32.0,2384.19,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+204,B04040113,Anié,Anié 1,Anié,Plateaux,78455.0,48.02,68.94,32.07,43.06,10.0,31.25,1.49,4903.44,541.07,17.0,7845.5,0,0,Cantons ruraux proches et dotés
+205,B05043122,Danyi-Elavagnon,Danyi 2,Danyi,Plateaux,9898.03,47.9,80.81,40.78,22.1,16.0,77.78,6.76,4949.01,761.39,30.0,1583.68,0,0,Cantons ruraux proches et dotés
+206,C04073224,Affem,Tchamba 1,Tchamba,Centrale,9263.0,47.85,57.32,36.24,50.0,11.0,44.44,3.95,4631.5,661.64,14.0,1018.93,0,0,Cantons ruraux proches et dotés
+207,B01032079,Kati,Agou 1,Agou,Plateaux,8231.0,47.73,22.47,27.9,92.8,0.0,0.0,0.55,4115.5,548.73,0.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+208,B03038103,Amou-Oblo,Amou 2,Amou,Plateaux,19923.0,47.47,67.42,48.61,26.39,9.0,66.67,5.71,6641.0,766.27,26.0,1793.07,0,0,Cantons ruraux proches et dotés
+209,C05076236,Kparataou,Tchaoudjo 1,Tchaoudjo,Centrale,16588.0,47.35,77.15,26.14,38.76,18.0,35.71,2.76,3317.6,614.37,19.0,2985.84,0,0,Cantons ruraux proches et dotés
+210,E06111356,Loko,Tandjoaré 1,Tandjoaré,Savanes,6187.0,47.14,22.47,59.09,59.85,0.0,0.0,3.67,6187.0,1237.4,10.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+211,B08052148,Lavié-Apédomé,Kloto 2,Kloto,Plateaux,3251.27,47.1,22.47,58.96,59.85,7.0,44.44,4.84,3251.27,3251.27,10.0,227.59,0,2,Cantons sous-équipés et loin du réseau électrique
+212,A07028056,Tométy-Kondji,Yoto 3,Yoto,Maritime,9068.0,47.05,22.47,65.78,52.9,0.0,0.0,2.64,4534.0,3022.67,13.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+213,E06112369,Doukpergou,Tandjoaré 2,Tandjoaré,Savanes,7026.0,47.01,22.47,25.76,92.8,0.0,22.22,3.8,3513.0,585.5,0.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+214,B05043121,Danyi-Kpeto-Evita,Danyi 2,Danyi,Plateaux,3558.0,46.93,69.7,37.37,33.71,14.0,77.78,19.89,3558.0,889.5,21.0,498.12,0,0,Cantons ruraux proches et dotés
+215,B10057167,Saligbé,Moyen-Mono 2,Moyen-Mono,Plateaux,13468.0,46.84,22.47,58.21,59.85,0.0,31.58,3.54,4489.33,1683.5,10.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+215,B12064185,Okou,Wawa 3,Wawa,Plateaux,4765.0,46.84,22.47,25.25,92.8,3.0,50.0,4.92,2382.5,794.17,0.0,142.95,0,2,Cantons sous-équipés et loin du réseau électrique
+217,C05076234,Tchalo,Tchaoudjo 1,Tchaoudjo,Centrale,8871.0,46.72,22.47,67.68,50.0,4.0,11.11,3.46,8871.0,1267.29,14.0,354.84,0,2,Cantons sous-équipés et loin du réseau électrique
+218,C01067202,Atchintsè,Blitta 3,Blitta,Centrale,4572.0,46.68,87.25,38.89,13.89,16.0,75.0,9.12,4572.0,762.0,38.0,731.52,0,1,"Cantons cumulant éloignement, sous-équipement et absence de réseau"
+219,C01066194,Tcharè-Baou,Blitta 2,Blitta,Centrale,7309.0,46.63,51.77,28.28,59.85,16.0,50.0,4.98,3654.5,609.08,10.0,1169.44,0,0,Cantons ruraux proches et dotés
+220,D01080248,Bouladè,Assoli 1,Assoli,Kara,5384.0,46.21,22.47,48.11,68.06,1.0,20.0,2.72,5384.0,897.33,8.0,53.84,0,2,Cantons sous-équipés et loin du réseau électrique
+221,C04073227,Kri-Kri,Tchamba 1,Tchamba,Centrale,7359.0,46.13,58.84,63.26,16.29,21.0,25.0,4.1,7359.0,1226.5,36.0,1545.39,0,0,Cantons ruraux proches et dotés
+222,E06112370,Sangou,Tandjoaré 2,Tandjoaré,Savanes,2620.0,46.09,22.47,22.98,92.8,0.0,15.38,3.29,2620.0,655.0,0.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+223,D01080247,Dako (Daoude),Assoli 1,Assoli,Kara,7995.0,45.75,64.02,62.88,10.35,17.0,33.33,2.51,7995.0,1142.14,42.0,1359.15,0,0,Cantons ruraux proches et dotés
+224,E04109341,Mango,Oti 1,Oti,Savanes,41803.0,45.71,78.54,46.09,12.5,8.0,52.63,5.83,10450.75,387.06,39.0,3344.24,0,0,Cantons ruraux proches et dotés
+224,D05093293,Alloum,Doufelgou 3,Doufelgou,Kara,10239.0,45.71,22.47,21.84,92.8,2.0,22.22,2.44,2559.75,639.94,0.0,204.78,0,2,Cantons sous-équipés et loin du réseau électrique
+226,C03072222,Bodjondè,Sotouboua 3,Sotouboua,Centrale,2218.0,45.54,62.25,10.61,63.76,18.0,30.77,0.8,2218.0,369.67,9.0,399.24,0,0,Cantons ruraux proches et dotés
+227,B12062179,Késsibo,Wawa 1,Wawa,Plateaux,10490.0,45.54,22.47,57.07,57.07,2.0,56.25,7.34,5245.0,1311.25,11.0,209.8,0,2,Cantons sous-équipés et loin du réseau électrique
+228,A08029061,Davié,Zio 1,Zio,Maritime,40518.0,45.5,22.47,80.3,33.71,0.0,0.0,1.37,10129.5,2025.9,21.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+228,B01034089,Agotimé-Nord,Agou 2,Agou,Plateaux,8332.0,45.5,75.25,25.13,36.11,17.0,58.82,5.44,1666.4,925.78,20.0,1416.44,0,0,Cantons ruraux proches et dotés
+230,A07026051,Kini-Kondji,Yoto 1,Yoto,Maritime,5465.0,45.37,22.47,70.58,43.06,0.0,0.0,1.37,5465.0,2732.5,17.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+231,B12062177,Tomégbé,Wawa 1,Wawa,Plateaux,8784.0,44.95,70.71,32.95,31.19,26.0,69.23,18.26,4392.0,627.43,23.0,2283.84,0,0,Cantons ruraux proches et dotés
+232,B12064187,Klabé-Efoukpa,Wawa 3,Wawa,Plateaux,5903.0,44.91,22.47,35.61,76.64,1.0,40.0,4.26,2951.5,983.83,5.0,59.03,0,2,Cantons sous-équipés et loin du réseau électrique
+233,D03087264,Pessaré,Binah 1,Binah,Kara,6329.0,44.82,22.47,52.15,59.85,0.0,0.0,3.81,6329.0,904.14,10.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+234,D06094298,Kantè,Kéran 1,Kéran,Kara,26266.0,44.7,61.11,49.37,23.61,10.0,33.33,2.85,13133.0,404.09,29.0,2626.6,0,0,Cantons ruraux proches et dotés
+235,D01081251,Koumondè,Assoli 2,Assoli,Kara,5124.0,44.63,22.47,97.54,13.89,0.0,0.0,1.92,,,38.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+236,D02083254,Bassar,Bassar 1,Bassar,Kara,45846.0,44.49,94.19,25.38,13.89,15.0,79.31,11.15,4584.6,316.18,38.0,6876.9,0,0,Cantons ruraux proches et dotés
+237,A06024043,Dzrékpo,Vo 3,Vo,Maritime,29687.0,44.4,22.47,57.83,52.9,0.0,5.56,2.36,5937.4,1236.96,13.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+238,D01080249,Bafilo,Assoli 1,Assoli,Kara,27038.0,44.23,86.74,39.65,6.31,7.0,57.14,7.58,6759.5,540.76,46.0,1892.66,0,0,Cantons ruraux proches et dotés
+239,C05078242,Kolina,Tchaoudjo 3,Tchaoudjo,Centrale,4147.0,44.15,88.51,10.23,33.71,33.0,44.44,4.14,2073.5,377.0,21.0,1368.51,0,0,Cantons ruraux proches et dotés
+240,D05092285,Agbandè-Yaka,Doufelgou 1,Doufelgou,Kara,8915.0,44.02,22.47,49.75,59.85,1.0,33.33,3.4,2971.67,1783.0,10.0,89.15,0,2,Cantons sous-équipés et loin du réseau électrique
+241,E07113374,Dapaong,Tône 1,Tône,Savanes,144711.0,43.94,48.99,53.41,29.42,2.0,21.43,2.81,7616.37,831.67,24.0,2894.22,0,3,Villes bien desservies
+242,A02007009,Tovégan,Avé 1,Avé,Maritime,12732.0,43.9,47.22,11.49,72.98,5.0,44.07,4.06,2122.0,424.4,6.0,636.6,0,0,Cantons ruraux proches et dotés
+243,B09054154,Kpélé-Novivé,Kpélé 1,Kpélé,Plateaux,29987.0,43.27,68.18,27.9,33.71,10.0,50.0,5.55,4997.83,333.19,21.0,2998.7,0,0,Cantons ruraux proches et dotés
+244,C03071221,Kériadé,Sotouboua 2,Sotouboua,Centrale,3524.0,43.22,53.66,26.01,50.0,11.0,54.55,5.24,3524.0,587.33,14.0,387.64,0,0,Cantons ruraux proches et dotés
+245,C03071217,Tittigbe,Sotouboua 2,Sotouboua,Centrale,7130.0,43.22,47.98,26.77,54.92,8.0,76.0,9.62,3565.0,594.17,12.0,570.4,0,0,Cantons ruraux proches et dotés
+246,A05019032,Aklakou,Lacs 2,Lacs,Maritime,31030.0,43.18,22.47,77.65,29.42,0.0,6.25,2.13,7757.5,2386.92,24.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+247,E07115382,Nioukpourma,Tône 3,Tône,Savanes,17991.0,43.06,22.47,42.93,63.76,0.0,37.84,3.3,5997.0,691.96,9.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+248,B07047131,Notsé,Haho 1,Haho,Plateaux,58983.0,43.01,84.34,30.81,13.89,6.0,81.25,7.47,5898.3,304.04,38.0,3538.98,0,0,Cantons ruraux proches et dotés
+249,B09055159,Kpélé-Kamé,Kpélé 2,Kpélé,Plateaux,5966.0,42.85,54.29,31.19,43.06,7.0,38.1,3.82,2983.0,852.29,17.0,417.62,0,0,Cantons ruraux proches et dotés
+250,B01033083,Agou-Atigbé,Agou 1,Agou,Plateaux,1845.0,42.82,22.47,97.54,8.46,0.0,0.0,2.61,,,44.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+251,A07026049,Amoussimé,Yoto 1,Yoto,Maritime,12720.0,42.76,22.47,42.05,63.76,0.0,0.0,1.11,2544.0,1413.33,9.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+252,C01067200,Pagala-Village,Blitta 3,Blitta,Centrale,3554.0,42.72,68.18,26.26,33.71,15.0,30.0,1.5,3554.0,592.33,21.0,533.1,0,0,Cantons ruraux proches et dotés
+253,D07099318,Awandjélo,Kozah 3,Kozah,Kara,12147.0,42.51,22.47,36.99,68.06,0.0,41.67,2.93,4049.0,809.8,8.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+254,A07028058,Essé-Godjin,Yoto 3,Yoto,Maritime,7897.0,42.34,22.47,61.49,43.06,0.0,33.33,3.27,3948.5,2632.33,17.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+255,B05042120,Danyi-Kakpa,Danyi 1,Danyi,Plateaux,8891.0,42.26,60.48,52.4,13.89,10.0,57.14,5.48,4445.5,1270.14,38.0,889.1,0,0,Cantons ruraux proches et dotés
+256,D07097307,Landa,Kozah 1,Kozah,Kara,10176.0,41.96,22.47,67.3,36.11,0.0,0.0,2.78,10176.0,1130.67,20.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+257,A08030071,Bolou,Zio 2,Zio,Maritime,12878.0,41.96,22.47,73.99,29.42,2.0,45.0,4.5,6439.0,2575.6,24.0,257.56,0,2,Cantons sous-équipés et loin du réseau électrique
+257,A08029064,Djagblé,Zio 1,Zio,Maritime,65455.0,41.96,22.47,93.94,9.47,0.0,0.0,1.93,32727.5,4363.67,43.0,0.0,0,3,Villes bien desservies
+259,A06024042,Dagbati,Vo 3,Vo,Maritime,18206.0,41.88,48.61,36.24,40.78,4.0,5.26,2.05,3034.33,958.21,18.0,728.24,0,0,Cantons ruraux proches et dotés
+260,A08029063,Abobo,Zio 1,Zio,Maritime,40622.0,41.25,22.47,73.74,27.53,0.0,12.5,2.25,8124.4,1766.17,25.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+261,D01082252,Soudou,Assoli 3,Assoli,Kara,16044.0,41.12,48.61,49.24,25.51,13.0,57.89,5.68,5348.0,943.76,27.0,2085.72,0,0,Cantons ruraux proches et dotés
+262,C04073226,Larini,Tchamba 1,Tchamba,Centrale,7113.0,40.74,67.05,22.85,32.32,10.0,25.0,2.3,3556.5,474.2,22.0,711.3,0,0,Cantons ruraux proches et dotés
+263,B10056162,Tohoun,Moyen-Mono 1,Moyen-Mono,Plateaux,18393.0,40.66,65.28,41.41,15.28,8.0,48.28,4.97,9196.5,347.04,37.0,1471.44,0,0,Cantons ruraux proches et dotés
+264,C05079246,Agouloudè,Tchaoudjo 4,Tchaoudjo,Centrale,13714.0,40.11,73.11,31.94,15.28,15.0,50.0,4.52,3428.5,761.89,37.0,2057.1,0,0,Cantons ruraux proches et dotés
+265,D03087263,Solla,Binah 1,Binah,Kara,9623.0,39.98,22.47,47.47,50.0,1.0,36.84,3.89,4811.5,962.3,14.0,96.23,0,2,Cantons sous-équipés et loin du réseau électrique
+266,C01067201,Tchifama,Blitta 3,Blitta,Centrale,5574.0,39.94,64.02,36.11,19.7,3.0,50.0,6.2,5574.0,557.4,32.0,167.22,0,0,Cantons ruraux proches et dotés
+267,D03088269,Sirka,Binah 2,Binah,Kara,7169.0,39.81,55.05,32.07,32.32,4.0,30.0,2.55,3584.5,716.9,22.0,286.76,0,0,Cantons ruraux proches et dotés
+268,A07026050,Kouvé,Yoto 1,Yoto,Maritime,21986.0,39.77,22.47,74.75,22.1,6.0,0.0,0.68,10993.0,1374.12,30.0,1319.16,0,2,Cantons sous-équipés et loin du réseau électrique
+269,B09054155,Kpélé-Akata,Kpélé 1,Kpélé,Plateaux,7655.0,39.73,22.47,32.95,63.76,2.0,15.38,2.31,3827.5,695.91,9.0,153.1,0,2,Cantons sous-équipés et loin du réseau électrique
+270,D03087267,Lama-Dessi,Binah 1,Binah,Kara,3932.0,38.97,22.47,44.44,50.0,0.0,22.22,2.18,1966.0,1966.0,14.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+271,D03087265,Boufalé,Binah 1,Binah,Kara,5801.0,38.76,55.05,11.24,50.0,26.0,20.0,2.82,1933.67,483.42,14.0,1508.26,0,0,Cantons ruraux proches et dotés
+272,B12063182,Gobé,Wawa 2,Wawa,Plateaux,680.47,38.64,22.47,0.63,92.8,0.0,0.0,3.18,340.23,85.06,0.0,0.0,0,0,Cantons ruraux proches et dotés
+273,E04109343,Faré,Oti 1,Oti,Savanes,4576.0,38.34,22.47,49.49,43.06,1.0,25.0,3.14,4576.0,1144.0,17.0,45.76,0,0,Cantons ruraux proches et dotés
+274,A03009016,Afagnan-Gbléta,Bas-Mono 1,Bas-Mono,Maritime,15929.0,38.3,22.47,45.45,46.97,0.0,2.86,3.21,2654.83,1592.9,15.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+275,E06111358,Bombouaka,Tandjoaré 1,Tandjoaré,Savanes,10769.0,38.22,22.47,42.17,50.0,5.0,10.0,3.74,5384.5,717.93,14.0,538.45,0,2,Cantons sous-équipés et loin du réseau électrique
+276,B05043123,Ahlon,Danyi 2,Danyi,Plateaux,4423.0,38.09,58.84,14.65,40.78,8.0,37.5,3.83,1474.33,631.86,18.0,353.84,0,0,Cantons ruraux proches et dotés
+277,A08029065,Kpomé,Zio 1,Zio,Maritime,18991.0,37.88,22.47,67.55,23.61,2.0,22.22,0.66,6330.33,1726.45,29.0,379.82,0,2,Cantons sous-équipés et loin du réseau électrique
+278,A06022039,Vo-Koutimé,Vo 1,Vo,Maritime,24190.0,37.75,22.47,54.67,36.11,0.0,7.14,1.29,4031.67,1612.67,20.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+279,D03087266,Pitikita,Binah 1,Binah,Kara,1484.0,37.33,22.47,6.57,82.95,0.0,16.67,2.15,1484.0,371.0,2.0,0.0,0,0,Cantons ruraux proches et dotés
+280,D05092291,Koka,Doufelgou 1,Doufelgou,Kara,3433.0,37.25,22.47,29.42,59.85,0.0,0.0,2.69,3433.0,686.6,10.0,0.0,0,0,Cantons ruraux proches et dotés
+281,A02008014,Badja,Avé 2,Avé,Maritime,9413.0,36.99,53.66,32.83,24.49,8.0,36.36,3.29,3137.67,855.73,28.0,753.04,0,0,Cantons ruraux proches et dotés
+282,A02007012,Edzi,Avé 1,Avé,Maritime,1832.0,36.7,52.78,10.35,46.97,9.0,69.57,5.68,1832.0,458.0,15.0,164.88,0,0,Cantons ruraux proches et dotés
+283,A02008013,Aképé,Avé 2,Avé,Maritime,16961.0,36.53,22.47,44.07,43.06,0.0,14.29,2.61,8480.5,530.03,17.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+284,E06111360,Bogou,Tandjoaré 1,Tandjoaré,Savanes,10506.0,36.45,22.47,50.76,36.11,0.0,13.79,2.93,5253.0,1050.6,20.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+285,D07097308,Soumdina,Kozah 1,Kozah,Kara,9274.0,36.41,22.47,50.63,36.11,0.0,0.0,1.85,4637.0,1159.25,20.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+286,A05020035,Gbodjomé,Lacs 3,Lacs,Maritime,72914.0,35.9,22.47,80.81,4.42,0.0,0.0,1.18,10416.29,1970.65,62.0,0.0,0,3,Villes bien desservies
+287,B12064183,Zogbégan,Wawa 3,Wawa,Plateaux,10912.0,35.73,22.47,29.8,54.92,0.0,50.0,4.86,3637.33,641.88,12.0,0.0,0,0,Cantons ruraux proches et dotés
+288,E04109342,Sadori,Oti 1,Oti,Savanes,8100.0,35.56,22.47,37.25,46.97,9.0,37.5,4.41,4050.0,810.0,15.0,729.0,0,0,Cantons ruraux proches et dotés
+289,C01065190,Blitta,Blitta 1,Blitta,Centrale,14067.0,35.27,22.47,69.44,13.89,1.0,21.05,2.22,4689.0,4689.0,38.0,140.67,0,2,Cantons sous-équipés et loin du réseau électrique
+290,D07098316,Sara-Kawa,Kozah 2,Kozah,Kara,6049.0,35.19,22.47,23.23,59.85,3.0,16.67,2.79,3024.5,604.9,10.0,181.47,0,0,Cantons ruraux proches et dotés
+291,A08030070,Wli,Zio 2,Zio,Maritime,5687.0,34.97,22.47,43.69,38.76,0.0,15.38,3.37,2843.5,1421.75,19.0,0.0,0,0,Cantons ruraux proches et dotés
+292,A08029067,Gbatopé,Zio 1,Zio,Maritime,26317.0,34.93,22.47,52.9,29.42,1.0,10.0,2.01,4386.17,1315.85,24.0,263.17,0,0,Cantons ruraux proches et dotés
+293,C03070214,Sotouboua,Sotouboua 1,Sotouboua,Centrale,37143.0,34.76,56.57,28.03,19.7,9.0,32.14,0.88,5306.14,265.31,32.0,3342.87,0,0,Cantons ruraux proches et dotés
+294,D07098311,Kouméa,Kozah 2,Kozah,Kara,7489.0,34.72,22.47,17.93,63.76,0.0,9.09,2.77,2496.33,576.08,9.0,0.0,0,0,Cantons ruraux proches et dotés
+295,C03071219,Adjengré,Sotouboua 2,Sotouboua,Centrale,21727.0,34.64,22.47,42.68,38.76,0.0,0.0,1.94,5431.75,724.23,19.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+296,A06023041,Anyron-Kopé,Vo 2,Vo,Maritime,6143.0,34.51,22.47,40.28,40.78,0.0,0.0,1.0,2047.67,1535.75,18.0,0.0,0,0,Cantons ruraux proches et dotés
+297,B12062178,Badou,Wawa 1,Wawa,Plateaux,20144.0,34.3,60.48,31.44,10.98,5.0,50.0,5.96,5036.0,479.62,41.0,1007.2,0,0,Cantons ruraux proches et dotés
+298,A06025045,Sévagan,Vo 4,Vo,Maritime,12919.0,34.22,22.47,46.46,33.71,0.0,10.0,2.68,4306.33,1076.58,21.0,0.0,0,0,Cantons ruraux proches et dotés
+299,B03039110,Témédja,Amou 3,Amou,Plateaux,9026.0,34.18,58.84,14.27,29.42,1.0,37.5,3.48,3008.67,257.89,24.0,90.26,0,0,Cantons ruraux proches et dotés
+300,A03009017,Afagnangan,Bas-Mono 1,Bas-Mono,Maritime,19478.0,33.96,22.47,43.31,36.11,0.0,0.0,2.58,6492.67,628.32,20.0,0.0,0,2,Cantons sous-équipés et loin du réseau électrique
+301,B01033084,Gadja,Agou 1,Agou,Plateaux,20634.0,33.54,22.47,32.95,45.2,1.0,33.33,3.77,2947.71,897.13,16.0,206.34,0,0,Cantons ruraux proches et dotés
+302,B03038104,Sodo,Amou 2,Amou,Plateaux,3920.0,32.95,22.47,35.61,40.78,4.0,50.0,3.99,3920.0,,18.0,156.8,0,0,Cantons ruraux proches et dotés
+303,B09055157,Kpélé-Nord,Kpélé 2,Kpélé,Plateaux,7538.0,32.66,22.47,18.43,57.07,1.0,50.0,5.05,2512.67,579.85,11.0,75.38,0,0,Cantons ruraux proches et dotés
+304,D03088270,Kétao,Binah 2,Binah,Kara,25809.0,32.62,22.47,51.77,23.61,1.0,0.0,0.68,8603.0,697.54,29.0,258.09,0,3,Villes bien desservies
+305,B11058170,Gnagna,Ogou 1,Ogou,Plateaux,60222.0,32.45,50.25,39.65,7.45,1.0,40.0,1.52,5474.73,633.92,45.0,602.22,0,3,Villes bien desservies
+306,A07027053,Ahépé,Yoto 2,Yoto,Maritime,18138.0,32.37,22.47,56.94,17.68,1.0,0.0,1.08,9069.0,863.71,34.0,181.38,0,0,Cantons ruraux proches et dotés
+307,C05078241,Aléhéridè,Tchaoudjo 3,Tchaoudjo,Centrale,6123.0,32.28,22.47,35.61,38.76,4.0,60.0,5.55,6123.0,471.0,19.0,244.92,0,0,Cantons ruraux proches et dotés
+308,B08052147,Lavié,Kloto 2,Kloto,Plateaux,5689.73,32.15,22.47,28.79,45.2,0.0,46.67,4.59,2844.86,812.82,16.0,0.0,0,0,Cantons ruraux proches et dotés
+309,D05092287,Ténéga,Doufelgou 1,Doufelgou,Kara,4303.0,31.94,22.47,28.16,45.2,0.0,0.0,2.02,4303.0,537.88,16.0,0.0,0,0,Cantons ruraux proches et dotés
+310,B11058169,Djama,Ogou 1,Ogou,Plateaux,45885.0,31.86,62.88,20.2,12.5,7.0,46.03,3.11,4171.36,136.56,39.0,3211.95,0,0,Cantons ruraux proches et dotés
+311,B03039107,Hihéatro,Amou 3,Amou,Plateaux,23330.0,31.52,22.47,54.42,17.68,0.0,12.5,2.9,4666.0,1296.11,34.0,0.0,0,0,Cantons ruraux proches et dotés
+311,D05094296,Défalé,Doufelgou 2,Doufelgou,Kara,6938.0,31.52,58.84,13.64,22.1,10.0,25.0,2.83,2312.67,462.53,30.0,693.8,0,0,Cantons ruraux proches et dotés
+313,D01081250,Alédjo,Assoli 2,Assoli,Kara,4809.0,31.48,53.66,13.26,27.53,12.0,54.55,5.82,1603.0,601.12,25.0,577.08,0,0,Cantons ruraux proches et dotés
+314,C02068209,Boulohou,Mô 1,Mô,Centrale,5831.0,31.4,68.18,8.33,17.68,18.0,60.0,14.64,1943.67,364.44,34.0,1049.58,0,0,Cantons ruraux proches et dotés
+315,B02035092,Kougnohou,Akébou 1,Akébou,Plateaux,13718.0,31.19,50.25,24.62,18.69,2.0,46.67,4.45,4572.67,291.87,33.0,274.36,0,0,Cantons ruraux proches et dotés
+316,A07027052,Tchékpo,Yoto 2,Yoto,Maritime,14591.0,30.56,22.47,52.9,16.29,1.0,0.0,1.4,4863.67,1215.92,36.0,145.91,0,0,Cantons ruraux proches et dotés
+317,C01067204,Yégué,Blitta 3,Blitta,Centrale,3472.0,30.13,22.47,52.65,15.28,3.0,33.33,0.76,3472.0,1736.0,37.0,104.16,0,0,Cantons ruraux proches et dotés
+318,B01034087,Amoussou-Kopé,Agou 2,Agou,Plateaux,11697.0,30.09,22.47,17.8,50.0,1.0,20.0,3.75,1949.5,649.83,14.0,116.97,0,0,Cantons ruraux proches et dotés
+319,C05079245,Kpassaouade,Tchaoudjo 4,Tchaoudjo,Centrale,3468.0,29.8,65.91,8.21,15.28,28.0,36.36,3.76,1734.0,385.33,37.0,971.04,0,0,Cantons ruraux proches et dotés
+320,B01033078,Agou-Iboé,Agou 1,Agou,Plateaux,2894.0,29.25,22.47,44.57,20.71,0.0,22.22,2.36,2894.0,1447.0,31.0,0.0,0,0,Cantons ruraux proches et dotés
+321,D05092284,Siou,Doufelgou 1,Doufelgou,Kara,8910.0,29.12,22.47,41.29,23.61,0.0,0.0,1.29,8910.0,371.25,29.0,0.0,0,0,Cantons ruraux proches et dotés
+322,D03088271,Kémérida,Binah 2,Binah,Kara,7182.0,29.08,22.47,58.46,6.31,7.0,0.0,2.22,7182.0,1026.0,46.0,502.74,0,0,Cantons ruraux proches et dotés
+323,A06022038,Vogan,Vo 1,Vo,Maritime,64675.0,28.91,22.47,23.48,40.78,0.0,0.0,2.26,4042.19,378.22,18.0,0.0,0,0,Cantons ruraux proches et dotés
+324,A08029060,Tsévié,Zio 1,Zio,Maritime,81568.0,28.87,46.34,31.82,8.46,2.0,3.12,1.11,6274.46,259.77,44.0,1631.36,0,3,Villes bien desservies
+325,A02008012,Noépé,Avé 2,Avé,Maritime,9796.0,28.54,22.47,20.08,43.06,0.0,0.0,1.11,1959.2,699.71,17.0,0.0,0,0,Cantons ruraux proches et dotés
+326,E01101325,Cinkassé,Cinkassé 1,Cinkassé,Savanes,63226.0,28.41,22.47,38.26,24.49,0.0,6.67,1.94,7025.11,436.04,28.0,0.0,0,3,Villes bien desservies
+327,A05020034,Agbodrafo,Lacs 3,Lacs,Maritime,35262.0,28.28,22.47,51.39,10.98,0.0,0.0,1.82,7052.4,839.57,41.0,0.0,0,3,Villes bien desservies
+328,D07097309,Lassa,Kozah 1,Kozah,Kara,12999.0,28.11,22.47,23.11,38.76,0.0,0.0,1.36,3249.75,565.17,19.0,0.0,0,0,Cantons ruraux proches et dotés
+329,A05021035,Anfoin,Lacs 4,Lacs,Maritime,17172.0,27.86,22.47,35.61,25.51,0.0,0.0,1.37,2862.0,1010.12,27.0,0.0,0,3,Villes bien desservies
+330,B08051139,Tové,Kloto 1,Kloto,Plateaux,5662.0,27.15,22.47,36.87,22.1,0.0,0.0,1.41,5662.0,566.2,30.0,0.0,0,0,Cantons ruraux proches et dotés
+331,A07026048,Tabligbo,Yoto 1,Yoto,Maritime,37182.0,27.15,22.47,52.65,6.31,1.0,0.0,0.93,5311.71,1126.73,46.0,371.82,0,3,Villes bien desservies
+332,A03010019,Hompou,Bas-Mono 2,Bas-Mono,Maritime,4103.0,26.94,22.47,19.57,38.76,0.0,0.0,1.62,2051.5,683.83,19.0,0.0,0,0,Cantons ruraux proches et dotés
+333,C05076238,Kpangalam,Tchaoudjo 1,Tchaoudjo,Centrale,37115.0,26.81,22.47,39.27,18.69,1.0,6.67,1.27,5302.14,674.82,33.0,371.15,0,0,Cantons ruraux proches et dotés
+334,B08051145,Gbalabé,Kloto 1,Kloto,Plateaux,2304.0,26.43,22.47,34.72,22.1,0.0,0.0,1.01,2304.0,1152.0,30.0,0.0,0,0,Cantons ruraux proches et dotés
+335,A05019033,Agouégan,Lacs 2,Lacs,Maritime,11825.0,26.22,22.47,39.9,16.29,0.0,14.29,1.6,2956.25,1182.5,36.0,0.0,0,0,Cantons ruraux proches et dotés
+336,B03037100,Amlamé (Ouma),Amou 1,Amou,Plateaux,13782.0,26.18,22.47,46.59,9.47,1.0,28.57,2.2,4594.0,984.43,43.0,137.82,0,0,Cantons ruraux proches et dotés
+337,A02007008,Assahoun,Avé 1,Avé,Maritime,8445.51,26.14,22.47,10.73,45.2,2.0,70.59,6.52,2815.17,145.61,16.0,168.91,0,0,Cantons ruraux proches et dotés
+338,D07098315,Bohou,Kozah 2,Kozah,Kara,6739.0,26.05,22.47,19.57,36.11,0.0,0.0,2.25,1684.75,748.78,20.0,0.0,0,0,Cantons ruraux proches et dotés
+339,A05018030,Glidji,Lacs 1,Lacs,Maritime,24757.0,25.51,22.47,26.52,27.53,0.0,0.0,0.91,4951.4,263.37,25.0,0.0,0,3,Villes bien desservies
+340,D07098317,Yadè,Kozah 2,Kozah,Kara,4301.0,25.46,22.47,21.59,32.32,0.0,0.0,0.89,4301.0,195.5,22.0,0.0,0,0,Cantons ruraux proches et dotés
+341,A07028055,Gboto,Yoto 3,Yoto,Maritime,13168.0,25.13,22.47,48.48,4.42,1.0,0.0,0.95,3292.0,1463.11,62.0,131.68,0,0,Cantons ruraux proches et dotés
+342,A05021036,Fiata,Lacs 4,Lacs,Maritime,8988.0,25.04,22.47,13.89,38.76,0.0,0.0,1.23,898.8,642.0,19.0,0.0,0,0,Cantons ruraux proches et dotés
+343,B08052149,Kpimé,Kloto 2,Kloto,Plateaux,7225.0,24.96,22.47,9.34,43.06,0.0,7.69,2.4,1445.0,516.07,17.0,0.0,0,0,Cantons ruraux proches et dotés
+344,B01033085,Assahoun-Fiagbé,Agou 1,Agou,Plateaux,2934.0,24.92,22.47,9.22,43.06,0.0,0.0,0.47,1467.0,489.0,17.0,0.0,0,0,Cantons ruraux proches et dotés
+345,A03010018,Attitogon,Bas-Mono 2,Bas-Mono,Maritime,31288.0,24.87,22.47,34.47,17.68,0.0,2.56,0.46,3476.44,845.62,34.0,0.0,0,0,Cantons ruraux proches et dotés
+346,A07028059,Tokpli,Yoto 3,Yoto,Maritime,13998.0,24.12,22.47,40.4,9.47,0.0,0.0,1.75,3499.5,999.86,43.0,0.0,0,0,Cantons ruraux proches et dotés
+347,E06111361,Nandoga,Tandjoaré 1,Tandjoaré,Savanes,6334.0,23.74,22.47,15.03,33.71,0.0,52.38,5.41,3167.0,158.35,21.0,0.0,0,0,Cantons ruraux proches et dotés
+348,D03087268,Pagouda,Binah 1,Binah,Kara,16870.0,23.65,22.47,17.3,31.19,0.0,7.14,2.11,3374.0,263.59,23.0,0.0,0,0,Cantons ruraux proches et dotés
+349,C05076237,Sokodè (Komah),Tchaoudjo 1,Tchaoudjo,Centrale,91606.0,23.27,47.47,14.9,7.45,1.0,10.71,0.75,3158.83,167.78,45.0,916.06,0,3,Villes bien desservies
+350,B12064184,Ounabé,Wawa 3,Wawa,Plateaux,3477.0,22.81,22.47,18.43,27.53,0.0,71.43,5.86,1738.5,695.4,25.0,0.0,0,0,Cantons ruraux proches et dotés
+351,C05078240,Kéméni,Tchaoudjo 3,Tchaoudjo,Centrale,2876.0,22.6,22.47,26.64,18.69,19.0,50.0,3.04,2876.0,719.0,33.0,546.44,0,0,Cantons ruraux proches et dotés
+352,D07097310,Commune De Kara,Kozah 1,Kozah,Kara,161176.0,22.56,22.47,34.85,10.35,1.0,4.17,1.91,7326.18,151.77,42.0,1611.76,0,3,Villes bien desservies
+353,D07098314,Tchitchao,Kozah 2,Kozah,Kara,7427.0,22.47,22.47,19.44,25.51,0.0,0.0,2.2,3713.5,256.1,27.0,0.0,0,0,Cantons ruraux proches et dotés
+354,A05018029,Aného,Lacs 1,Lacs,Maritime,18906.33,22.22,22.47,42.42,1.77,0.0,0.0,0.45,6302.11,630.21,77.0,0.0,0,3,Villes bien desservies
+355,D05092288,Baga,Doufelgou 1,Doufelgou,Kara,5905.0,21.89,22.47,11.99,31.19,0.0,0.0,1.14,2952.5,118.1,23.0,0.0,0,0,Cantons ruraux proches et dotés
+356,A06023040,Togoville,Vo 2,Vo,Maritime,18253.0,21.13,22.47,29.29,11.62,0.0,0.0,1.05,2607.57,869.19,40.0,0.0,0,0,Cantons ruraux proches et dotés
+357,B08053151,Agomé-Tomégbé,Kloto 3,Kloto,Plateaux,2833.0,21.09,22.47,33.33,7.45,0.0,33.33,4.64,2833.0,944.33,45.0,0.0,0,0,Cantons ruraux proches et dotés
+358,A05018031,Canton D’Aneho,Lacs 1,Lacs,Maritime,9330.67,20.92,22.47,38.26,2.02,0.0,0.0,0.97,9330.67,52.42,74.0,0.0,0,3,Villes bien desservies
+358,A01006006,Adétikopé,Agoè-Nyivé 6,Agoè-Nyivé,Maritime,110194.0,20.92,22.47,32.83,7.45,0.0,0.0,0.68,3148.4,854.22,45.0,0.0,0,3,Villes bien desservies
+360,A02007007,Kévé,Avé 1,Avé,Maritime,11735.0,20.88,22.47,14.65,25.51,1.0,30.77,2.86,2933.75,335.29,27.0,117.35,0,0,Cantons ruraux proches et dotés
+361,B08051142,Tomé,Kloto 1,Kloto,Plateaux,3287.0,20.45,22.47,9.47,29.42,1.0,20.0,2.63,1095.67,547.83,24.0,32.87,0,0,Cantons ruraux proches et dotés
+362,B03039109,Evou,Amou 3,Amou,Plateaux,4893.0,20.08,22.47,15.66,22.1,0.0,0.0,2.01,2446.5,,30.0,0.0,0,0,Cantons ruraux proches et dotés
+363,A06025047,Akoumapé,Vo 4,Vo,Maritime,19187.0,19.74,22.47,20.45,16.29,1.0,8.33,2.2,2398.38,639.57,36.0,191.87,0,0,Cantons ruraux proches et dotés
+364,D05092286,Niamtougou,Doufelgou 1,Doufelgou,Kara,6433.0,19.32,22.47,14.77,20.71,0.0,0.0,1.7,3216.5,146.2,31.0,0.0,0,0,Cantons ruraux proches et dotés
+365,A01005005,Sanguera,Agoè-Nyivé 5,Agoè-Nyivé,Maritime,125097.0,19.07,22.47,30.93,3.79,0.0,0.0,0.57,2360.32,954.94,65.0,0.0,0,3,Villes bien desservies
+366,B08051144,Womé,Kloto 1,Kloto,Plateaux,3984.33,19.02,22.47,22.98,11.62,0.0,33.33,1.52,1992.17,796.87,40.0,0.0,0,0,Cantons ruraux proches et dotés
+367,D07098313,Pya,Kozah 2,Kozah,Kara,11398.0,18.98,22.47,12.37,22.1,0.0,0.0,2.22,2849.5,232.61,30.0,0.0,0,0,Cantons ruraux proches et dotés
+368,C05079244,Wassarabo,Tchaoudjo 4,Tchaoudjo,Centrale,3097.0,18.86,22.47,24.62,9.47,0.0,20.0,3.69,3097.0,619.4,43.0,0.0,0,0,Cantons ruraux proches et dotés
+368,A03010020,Agome-Glozou,Bas-Mono 1,Bas-Mono,Maritime,7254.0,18.86,22.47,23.74,10.35,0.0,6.25,1.87,3627.0,483.6,42.0,0.0,0,0,Cantons ruraux proches et dotés
+370,B08051146,Hanyigba,Kloto 1,Kloto,Plateaux,4455.0,18.69,22.47,12.88,20.71,0.0,0.0,0.55,2227.5,,31.0,0.0,0,0,Cantons ruraux proches et dotés
+371,B08053150,Agomé-Yoh,Kloto 3,Kloto,Plateaux,1785.0,17.89,22.47,24.87,6.31,0.0,0.0,0.57,1785.0,892.5,46.0,0.0,0,0,Cantons ruraux proches et dotés
+372,A01004004,Togblekope,Agoè-Nyivé 4,Agoè-Nyivé,Maritime,154431.0,17.68,22.47,25.76,4.8,0.0,0.0,0.55,2617.47,728.45,59.0,0.0,0,3,Villes bien desservies
+373,A01002002,Légbassito,Agoè-Nyivé 2,Agoè-Nyivé,Maritime,128164.0,17.38,22.47,27.27,2.4,0.0,0.0,0.52,2288.64,871.86,73.0,0.0,0,3,Villes bien desservies
+374,B03037098,Adiva,Amou 1,Amou,Plateaux,1158.0,17.05,22.47,10.98,17.68,0.0,0.0,3.24,1158.0,579.0,34.0,0.0,0,0,Cantons ruraux proches et dotés
+375,C03070215,Kaniamboua,Sotouboua 1,Sotouboua,Centrale,2190.0,16.58,22.47,10.35,16.92,4.0,0.0,0.97,2190.0,365.0,35.0,87.6,0,0,Cantons ruraux proches et dotés
+376,B08051140,Agome-Kpalime,Kloto 1,Kloto,Plateaux,87478.0,16.46,22.47,18.43,8.46,0.0,0.0,1.21,3644.92,208.28,44.0,0.0,0,3,Villes bien desservies
+377,B08053152,Kouma,Kloto 3,Kloto,Plateaux,6815.0,16.29,22.47,12.5,13.89,0.0,10.0,1.34,1703.75,567.92,38.0,0.0,0,0,Cantons ruraux proches et dotés
+378,A02007011,Zolo,Avé 1,Avé,Maritime,8101.0,16.25,22.47,13.76,12.5,0.0,16.67,2.89,2700.33,352.22,39.0,0.0,0,0,Cantons ruraux proches et dotés
+379,B08051143,Kpadapé,Kloto 1,Kloto,Plateaux,7968.67,15.66,22.47,19.19,5.3,0.0,40.0,0.63,2656.22,569.19,51.0,0.0,0,0,Cantons ruraux proches et dotés
+380,A06025046,Hahotoé,Vo 4,Vo,Maritime,14393.0,15.53,22.47,11.62,12.5,0.0,40.0,1.77,2056.14,436.15,39.0,0.0,0,0,Cantons ruraux proches et dotés
+381,B05042118,Danyi-Atigba,Danyi 1,Danyi,Plateaux,12226.97,15.36,22.47,18.06,5.56,1.0,39.13,4.28,3056.74,407.57,47.0,122.27,0,0,Cantons ruraux proches et dotés
+382,A04017028,Aflao-Sagbado,Golfe 7,Golfe,Maritime,257813.0,15.11,22.47,20.08,2.78,0.0,0.0,0.5,1953.13,710.23,71.0,0.0,0,3,Villes bien desservies
+383,A04016027,Baguida,Golfe 6,Golfe,Maritime,181561.0,14.94,22.47,20.83,1.52,0.0,0.0,0.38,2136.01,692.98,78.0,0.0,0,3,Villes bien desservies
+384,A04012023,Bè-Centre,Golfe 2,Golfe,Maritime,136153.0,14.44,22.47,19.95,0.88,0.0,0.0,0.48,3166.35,447.87,93.0,0.0,0,3,Villes bien desservies
+385,A03010021,Agbétiko,Bas-Mono 2,Bas-Mono,Maritime,4087.0,13.34,22.47,9.09,8.46,0.0,0.0,0.57,1362.33,510.88,44.0,0.0,0,0,Cantons ruraux proches et dotés
+386,B05042119,Yikpa,Danyi 1,Danyi,Plateaux,1243.0,12.88,22.47,13.13,3.03,0.0,57.14,5.17,1243.0,621.5,69.0,0.0,0,0,Cantons ruraux proches et dotés
+387,A04014025,Amoutivé,Golfe 4,Golfe,Maritime,155842.0,12.67,22.47,14.27,1.26,0.0,0.0,0.34,2940.42,313.57,91.0,0.0,0,3,Villes bien desservies
+388,A04011022,Bè-Est,Golfe 1,Golfe,Maritime,351550.0,12.29,22.47,11.99,2.4,0.0,0.0,0.39,2225.0,423.55,73.0,0.0,0,3,Villes bien desservies
+388,D07098312,Tcharè,Kozah 2,Kozah,Kara,2301.0,12.29,22.47,2.78,11.62,0.0,5.56,1.03,1150.5,230.1,40.0,0.0,0,0,Cantons ruraux proches et dotés
+390,A01001001,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Maritime,317255.0,12.21,22.47,13.26,0.88,0.0,0.0,0.42,2440.42,421.88,93.0,0.0,0,3,Villes bien desservies
+391,B01033081,Agou-Kébo,Agou 1,Agou,Plateaux,2708.0,11.78,22.47,8.84,4.04,0.0,0.0,0.84,677.0,541.6,63.0,0.0,0,0,Cantons ruraux proches et dotés
+392,B01033082,Agou-Tavié,Agou 1,Agou,Plateaux,9019.0,10.77,22.47,4.8,5.05,0.0,0.0,1.02,1803.8,158.23,56.0,0.0,0,0,Cantons ruraux proches et dotés
+393,A04015026,Aflao-Gakli,Golfe 5,Golfe,Maritime,169993.0,10.69,22.47,9.09,0.51,0.0,0.0,0.56,2151.81,306.29,95.0,0.0,0,3,Villes bien desservies
+394,A01003003,Vakpossito,Agoè-Nyivé 3,Agoè-Nyivé,Maritime,47554.0,9.72,22.47,6.44,0.25,0.0,0.0,0.34,1698.36,330.24,99.0,0.0,0,3,Villes bien desservies
+395,A04013024,Bè-Ouest,Golfe 3,Golfe,Maritime,52769.0,8.96,22.47,1.14,3.28,0.0,0.0,0.6,942.3,91.93,68.0,0.0,0,3,Villes bien desservies
+396,B01033080,Agou-Nyogbo-Dzidjole,Agou 1,Agou,Plateaux,279.67,8.75,22.47,0.25,3.54,0.0,0.0,0.76,93.22,7.77,67.0,0.0,0,0,Cantons ruraux proches et dotés

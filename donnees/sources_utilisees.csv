@@ -1,0 +1,14 @@
+fichier,jeu,plateforme,date_telechargement,licence
+raw/geodata/couches/formations_sanitaires.geojson,Formations sanitaires — Campagne de collecte PRISE - 2021/2022,geodata.gouv.tg,2026-11-06,CGU Géodata (contenu ouvert)
+raw/geodata/couches/routes_reseau_routier.geojson,Routes - Réseau routier — Campagne de collecte PRISE - 2021/2022,geodata.gouv.tg,2026-11-06,CGU Géodata (contenu ouvert)
+raw/geodata/couches/chefferie_traditionnelle.geojson,Chefferie traditionnelle — Campagne de collecte PRISE - 2021/2022,geodata.gouv.tg,2026-11-06,CGU Géodata (contenu ouvert)
+raw/geodata/couches/limites_administratives_regions.geojson,Limites administratives - Régions — Campagne de collecte PRISE - 2021/2022,geodata.gouv.tg,2026-11-06,CGU Géodata (contenu ouvert)
+raw/geodata/couches/limites_administratives_prefectures.geojson,Limites administratives - Préféctures — Campagne de collecte PRISE - 2021/2022,geodata.gouv.tg,2026-11-06,CGU Géodata (contenu ouvert)
+raw/geodata/couches/limites_administratives_communes.geojson,Limites administratives - Communes — Campagne de collecte PRISE - 2021/2022,geodata.gouv.tg,2026-11-06,CGU Géodata (contenu ouvert)
+raw/geodata/couches/limites_administratives_cantons.geojson,Limites administratives - Cantons — Campagne de collecte PRISE - 2021/2022,geodata.gouv.tg,2026-11-06,CGU Géodata (contenu ouvert)
+raw/geodata/indicateurs_region.json,Indicateurs ouverts — niveau REGION,geodata.gouv.tg,2026-11-06,CGU Géodata (contenu ouvert)
+raw/geodata/indicateurs_prefecture.json,Indicateurs ouverts — niveau PREFECTURE,geodata.gouv.tg,2026-11-06,CGU Géodata (contenu ouvert)
+raw/geodata/indicateurs_commune.json,Indicateurs ouverts — niveau COMMUNE,geodata.gouv.tg,2026-11-06,CGU Géodata (contenu ouvert)
+raw/geodata/indicateurs_canton.json,Indicateurs ouverts — niveau CANTON,geodata.gouv.tg,2026-11-06,CGU Géodata (contenu ouvert)
+raw/opendata/donnee_ouverte_de_recensement_general_de_la_population_et_de__observationdata_kwwolwb.csv,Donnée Ouverte de Recensement Général de la Population et de l'Habitat (RGPH),opendata.gouv.tg,2026-11-06,other-open
+raw/opendata/donnees_ouvertes_sur_le_taux_d_acces_a_l_electricite_par_pre__observationdata_puncgpd.csv,Données Ouvertes sur le Taux d'accès à l'électricité par préfecture au Togo,opendata.gouv.tg,2026-11-06,other-open

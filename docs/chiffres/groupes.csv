@@ -1,0 +1,5 @@
+groupe,nom_groupe,cantons,population,densite_mediane,part_hab_5km_med,part_hab_5km_geodata_med,part_loc_5km_med,dist_route_med_km,hab_par_centre_med,hab_par_personnel_med,pct_hab_reseau_bt_med,indice_moyen,dim_eloignement,dim_capacite,dim_electricite
+0,Cantons ruraux proches et dotés,124,1450536.4,106.4,0.0,1.0,29.3,2.8,3076.9,594.2,27.0,31.6,38.1,27.0,29.6
+1,"Cantons cumulant éloignement, sous-équipement et absence de réseau",148,2237620.9,63.6,33.3,26.0,66.7,6.9,7334.0,1316.1,8.0,69.8,79.0,63.9,66.7
+2,Cantons sous-équipés et loin du réseau électrique,95,1222189.8,188.9,0.0,1.0,25.0,3.3,6112.0,1302.1,9.0,51.5,28.1,62.4,63.9
+3,Villes bien desservies,29,3185151.0,2025.7,0.0,0.0,0.0,0.7,3166.3,630.2,59.0,22.2,26.0,32.4,8.3

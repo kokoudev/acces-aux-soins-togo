@@ -1,0 +1,11 @@
+,libelle,count,mean,std,min,10%,25%,50%,75%,90%,max
+densite_hab_km2,Densité (hab./km²),396.0,376.9,1174.48,3.89,35.94,59.54,101.02,210.41,452.04,11489.64
+part_hab_5km,"Habitants à plus de 5 km d'une USP, d'un CMS ou d'un hôpital (%, mesure principale)",396.0,15.74,20.4,0.0,0.0,0.0,6.67,26.35,45.92,100.0
+part_hab_5km_geodata,"Habitants à plus de 5 km d'une USP ou d'un hôpital (%, geodata)",396.0,13.19,17.29,0.0,0.0,0.0,6.0,20.0,37.0,100.0
+part_loc_5km,Localités à plus de 5 km par la route (%),396.0,40.99,29.91,0.0,0.0,11.01,44.44,66.67,78.94,100.0
+dist_route_med_km,Distance médiane par la route (km),396.0,5.08,4.62,0.34,1.02,2.2,4.35,6.49,9.28,39.17
+dist_hopital_med_km,Distance médiane à l'hôpital (km),396.0,19.99,13.97,0.81,4.92,9.6,16.66,27.0,39.83,74.13
+hab_par_centre,"Habitants par USP, CMS ou hôpital",380.0,6477.84,5170.15,93.22,1999.22,3020.54,4953.7,8192.05,12243.28,40462.0
+hab_par_personnel,Habitants par agent de santé,371.0,1232.09,1024.09,7.77,377.0,620.45,948.48,1534.06,2347.25,9225.0
+pct_hab_reseau_bt,Habitants à moins de 50 m du réseau BT (%),396.0,18.77,18.49,0.0,0.0,5.0,14.0,27.0,42.0,99.0
+km_route_km2,Densité routière (km/km²),396.0,1.63,2.8,0.0,0.32,0.48,0.74,1.29,3.39,19.2
