@@ -21,3 +21,8 @@ CLAUDE.md
 Thumbs.db
 .vscode/
 .idea/
+
+.vercel
+
+# Déploiement
+.vercel/

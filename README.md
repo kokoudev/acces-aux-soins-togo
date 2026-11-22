@@ -6,7 +6,9 @@ Un tableau de bord interactif qui mesure, pour chacun des 396 cantons du Togo, l
 vivant à plus de 5 km d'un centre de santé, et qui aide à choisir où implanter de nouveaux centres,
 à partir des seules données publiques d'opendata.gouv.tg et de geodata.gouv.tg.
 
-## Lancement (3 commandes)
+**Tableau de bord en ligne :** https://acces-aux-soins-togo.vercel.app
+
+## Lancement en local (3 commandes)
 
 ```bash
 python -m venv .venv
